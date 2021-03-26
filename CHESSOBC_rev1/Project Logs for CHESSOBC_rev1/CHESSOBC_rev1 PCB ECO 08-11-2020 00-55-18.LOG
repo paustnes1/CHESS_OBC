@@ -1,0 +1,176 @@
+Removed Pin From Net: NetName=3.3V_VPUMP Pin=C1-2
+Removed Pin From Net: NetName=GND Pin=C2-1
+Removed Pin From Net: NetName=3.3V_VPUMP Pin=C2-2
+Removed Pin From Net: NetName=NetJTAG?_1 Pin=JTAG?-1
+Removed Pin From Net: NetName=NetJTAG?_2 Pin=JTAG?-2
+Removed Pin From Net: NetName=NetJTAG?_3 Pin=JTAG?-3
+Removed Pin From Net: NetName=NetJTAG?_4 Pin=JTAG?-4
+Removed Pin From Net: NetName=NetJTAG?_5 Pin=JTAG?-5
+Removed Pin From Net: NetName=NetR2_2 Pin=R3-1
+Removed Pin From Net: NetName=NetR2A_1 Pin=U1-1
+Removed Pin From Net: NetName=GND Pin=U1-2
+Removed Pin From Net: NetName=GND Pin=U1-3
+Removed Pin From Net: NetName=GND Pin=U1-6
+Removed Pin From Net: NetName=GND Pin=U1-7
+Removed Pin From Net: NetName=NetR1A_1 Pin=U1-8
+Removed Pin From Net: NetName=GND Pin=U1-E17
+Removed Pin From Net: NetName=1.5V Pin=U1-F7
+Removed Pin From Net: NetName=1.5V Pin=U1-F16
+Removed Pin From Net: NetName=GND Pin=U1-G7
+Removed Pin From Net: NetName=GND Pin=U1-G16
+Removed Pin From Net: NetName=3.3V Pin=U1-H21
+Removed Pin From Net: NetName=3.3V Pin=U1-J3
+Removed Pin From Net: NetName=GND Pin=U1-J20
+Removed Pin From Net: NetName=GND Pin=U1-K3
+Removed Pin From Net: NetName=GND Pin=U1-L18
+Removed Pin From Net: NetName=GND Pin=U1-M1
+Removed Pin From Net: NetName=1.5V Pin=U1-M6
+Removed Pin From Net: NetName=1.5V Pin=U1-M18
+Removed Pin From Net: NetName=3.3V Pin=U1-N3
+Removed Pin From Net: NetName=GND Pin=U1-N20
+Removed Pin From Net: NetName=3.3V Pin=U1-P20
+Removed Pin From Net: NetName=1.5V Pin=U1-R16
+Removed Pin From Net: NetName=GND Pin=U1-T7
+Removed Pin From Net: NetName=GND Pin=U1-T16
+Removed Pin From Net: NetName=3.3V_JTAG Pin=U1-T17
+Removed Pin From Net: NetName=1.5V Pin=U1-U7
+Removed Pin From Net: NetName=NetJTAG?_3 Pin=U1-U16
+Removed Pin From Net: NetName=3.3V_VPUMP Pin=U1-U17
+Removed Pin From Net: NetName=NetJTAG?_5 Pin=U1-U18
+Removed Pin From Net: NetName=GND Pin=U1-V6
+Removed Pin From Net: NetName=NetJTAG?_1 Pin=U1-V17
+Removed Pin From Net: NetName=NetJTAG?_2 Pin=U1-V19
+Removed Pin From Net: NetName=NetJTAG?_4 Pin=U1-W18
+Removed Member From Class: ClassName=Power Member=C1
+Removed Member From Class: ClassName=Power Member=C2
+Removed Member From Class: ClassName=Power Member=JTAG?
+Removed Member From Class: ClassName=Core Member=U1
+Change Component Footprint: Designator=U1 Old Footprint=D0008A_L New Footprint=FG484
+Change Component Comment : Designator=U1 Old Comment=A3PE3000L-1FG484M New Comment=TL431CDR
+Change Component Comment : Designator=C1 Old Comment=C1608X7R1H334K080AC New Comment=100nF
+Change Component Comment : Designator=C2 Old Comment=GRM188R71H103KA01D New Comment=330nF 16V
+Change Component Comment : Designator=U1 Old Comment=TL431CDR New Comment=M1A3P600-FG484
+Change Managed Component Library Link : Designator=U1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=4068F9F1-56D4-4491-91F9-4E194E0298B5 New ItemGUID=EFB834DF-DBAE-456B-B527-28C50959E134 Old RevisionGUID=71743A2A-80B4-41E6-A197-47DE43E91E00 New RevisionGUID=0B7D1295-0B00-4979-8039-AF04CD25D5AC
+Change Managed Component Library Link : Designator=U1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=EFB834DF-DBAE-456B-B527-28C50959E134 New ItemGUID=75049E7F-24F1-47B6-B07B-2B3FBD6FF454 Old RevisionGUID=0B7D1295-0B00-4979-8039-AF04CD25D5AC New RevisionGUID=C08F4FD7-2962-4E41-B068-98F1A307FBA2
+Change Managed Component Library Link : Designator=C1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=0E1FFC42-F177-4346-8D34-384284695200 New ItemGUID= Old RevisionGUID=94C433F4-1CC0-450A-8FD9-DB33CAFDFCAE New RevisionGUID=
+Change Managed Component Library Link : Designator=C2 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=AFD66F38-AFC9-4278-9221-61F9B1E48352 New ItemGUID= Old RevisionGUID=B6DBF9A6-0FF3-4B00-89EA-FD970B9C67DE New RevisionGUID=
+Change component parameters: Designator = "C1" ("C1"); Footprint = "CAPC1608X90X20LL10"; UniqueID = "\VVUXVHGX" ("\VVUXVHGX")
+Change component parameters (AddParameter): Name = "DCL ITEM"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Family"; Value = "1 Capacitors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "M2M"; Value = "true"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MOQ"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "490-1532-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price#1"; Value = "0.1USD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Range"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Sband"; Value = "True"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Specification"; Value = "Military"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Subfamily"; Value = "1.02 Ceramic Chip"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U1" ("U1"); Footprint = "FG484"; UniqueID = "\TTPSGXXU" ("\TTPSGXXU")
+Change component parameters (AddParameter): Name = "Code_IPC"; Value = "BGA100P22X22-484"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Code_JEDEC"; Value = "MS-012"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=TL431&fileType=pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.ti.com/litv/pdf/msoi002j"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "SLVS543M"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Eco-Plan"; Value = "Green (RoHS & no Sb/Br)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Initial Accuracy @ 25/deg C(%)"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Iout/Iz(Max)(mA)"; Value = "100"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Iz for Regulation(uA)"; Value = "600"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "8-Pin Plastic Small Outline, Body 4.9 x 3.9 mm, Pitch 1.27 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "D0008A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageVersion"; Value = "4040047-3/M"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "TL431CDR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rating"; Value = "Military"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SubFamily"; Value = "Shunt Voltage Reference"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temp Coeff(Max)(ppm/ degree C)"; Value = "92"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temp Coeff(Typ)(ppm/ degree C)"; Value = "34"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VO Adj(Max)(V)"; Value = "36"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VO Adj(Min)(V)"; Value = "2.495"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U1" ("U1"); Footprint = "D0008A_L"; UniqueID = "\VSWEGMHT" ("\VSWEGMHT")
+Change component parameters (AddParameter): Name = "Code_IPC"; Value = "BGA100P22X22-484"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Code_JEDEC"; Value = "MS-034-AAJ-1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "v1.3, Oct-2009"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "484-Ball Fine Pitch Plastic Ball Grid Array (FG484) - Fully Populated"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "FG484"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageVersion"; Value = "ver11.2, Nov-2009"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2" ("C2"); Footprint = "CAPC1608X90X35ML10T15"; UniqueID = "\BLZNEVXM" ("\BLZNEVXM")
+Change component parameters (AddParameter): Name = "DCL ITEM"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Family"; Value = "1 Capacitors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "M2M"; Value = "true"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "TDK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MOQ"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "810-CGA2B1X7S1C334KC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price#1"; Value = "0.245sFR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Range"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Sband"; Value = "True"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Specification"; Value = "Military"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Subfamily"; Value = "1.02 Ceramic Chip"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "330nF 16V"; VariantName = "[No Variations]"
+Added Component: Designator=X1(FCI-77311-5_V)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://portal.fciconnect.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://portal.fciconnect.com/Comergent//fci/drawing/77311.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Brass"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "1 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. CK, 07/2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Female"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-25degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Male Header, Pitch 2.54 mm, 1 x 5 Position, Height 16.24 mm, Tail Length 3.05 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "77311-5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHSCompliant"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shielding"; Value = "Shielded"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetJTAG?_5 Pin=C1-2
+Added Pin To Net: NetName=NetJTAG?_5 Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=3.3V Pin=R3-1
+Added Pin To Net: NetName=NetR2_2 Pin=R3-1
+Added Pin To Net: NetName=NetR3_2 Pin=R3-2
+Added Pin To Net: NetName=NetR3_2 Pin=R4-1
+Added Pin To Net: NetName=5Vmeas Pin=R4-2
+Added Pin To Net: NetName=3.3V_JTAG Pin=U1-M6
+Added Pin To Net: NetName=NetJTAG?_4 Pin=U1-U16
+Added Pin To Net: NetName=NetJTAG?_5 Pin=U1-U17
+Added Pin To Net: NetName=NetJTAG?_3 Pin=U1-U18
+Added Pin To Net: NetName=NetJTAG?_2 Pin=U1-V17
+Added Pin To Net: NetName=NetJTAG?_1 Pin=U1-V19
+Added Pin To Net: NetName=3.3V_VPUMP Pin=U1-W18
+Added Pin To Net: NetName=NetJTAG?_3 Pin=X1-1
+Added Pin To Net: NetName=3.3V_VPUMP Pin=X1-2
+Added Pin To Net: NetName=NetJTAG?_4 Pin=X1-3
+Added Pin To Net: NetName=NetJTAG?_1 Pin=X1-4
+Added Pin To Net: NetName=NetJTAG?_2 Pin=X1-5
+Change Net Name : Old Net Name=1.5V New Net Name=+1.5V
+Change Net Name : Old Net Name=3.3V New Net Name=3.3V_IN
+Change Net Name : Old Net Name=3.3V_JTAG New Net Name=VPLL
+Change Net Name : Old Net Name=3.3V_VPUMP New Net Name=NetU1_W18
+Change Net Name : Old Net Name=NetJTAG?_1 New Net Name=NetU1_V19
+Change Net Name : Old Net Name=NetJTAG?_2 New Net Name=NetU1_V17
+Change Net Name : Old Net Name=NetJTAG?_3 New Net Name=NetU1_U18
+Change Net Name : Old Net Name=NetJTAG?_4 New Net Name=NetU1_U16
+Change Net Name : Old Net Name=NetJTAG?_5 New Net Name=+3.3V_VPUMP
+Added Pin To Net: NetName=+3.3V_JTAG Pin=U1-T17
+Added Net: Name=+3.3V_JTAG
+Added Net: Name=3.3V
+Added Class: Name=FPGABanks
+Added Class: Name=FPGAMisc
+Added Class: Name=FPGAPower
+Added Room: Name=Core
+Added Room: Name=FPGABanks
+Added Room: Name=FPGAMisc
+Added Room: Name=FPGAPower
+Added Room: Name=Housekeeping
+Added Room: Name=Interface
+Added Room: Name=Power

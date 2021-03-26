@@ -1,0 +1,12 @@
+Added Component: Designator=C82(CAPC1005X60X30ML05T10)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "C0402C104K8PACTU"; VariantName = "[No Variations]"
+Added Component: Designator=C84(CAPC1005X60X30ML05T10)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "C0402C104K8PACTU"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C82-1
+Added Pin To Net: NetName=NetC82_2 Pin=C82-2
+Added Pin To Net: NetName=GND Pin=C84-1
+Added Pin To Net: NetName=+3.3V Pin=C84-2
+Added Member To Class: ClassName=Interface Member=Component C82 100nF
+Added Member To Class: ClassName=Interface Member=Component C84 100nF

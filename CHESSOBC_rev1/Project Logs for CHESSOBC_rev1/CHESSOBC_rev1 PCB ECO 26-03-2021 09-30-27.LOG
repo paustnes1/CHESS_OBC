@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=GND Pin=X2-2
+Removed Pin From Net: NetName=NetU1_L5 Pin=X2-3
+Change Component Designator: OldDesignator=X2 NewDesignator=X2_old
+Added Component: Designator=X2(OSC_ECS-2033-320-AU)
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "XC1864CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ECS International"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ECS-2033-320-AU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD-4 ECS International"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ECS-2033-320-AU/ECS%20International/view-part/2456319/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3V3 Pin=X2-1
+Added Pin To Net: NetName=GND Pin=X2-2
+Added Pin To Net: NetName=NetU1_L5 Pin=X2-3
+Added Pin To Net: NetName=+3V3 Pin=X2-4
+Added Member To Class: ClassName=FPGAMisc Member=Component X2_old ECS-2033-320-AU

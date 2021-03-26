@@ -1,0 +1,5 @@
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Change Component Designator: OldDesignator=R? NewDesignator=R3
+Added Member To Class: ClassName=Interface Member=Component R1 10k
+Added Member To Class: ClassName=Interface Member=Component R2 10k
