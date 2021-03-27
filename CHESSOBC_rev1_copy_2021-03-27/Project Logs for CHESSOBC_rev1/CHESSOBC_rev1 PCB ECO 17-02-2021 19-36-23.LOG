@@ -1,0 +1,33 @@
+Removed Member From Class: ClassName=Core Member=FRAM1
+Added Component: Designator=U?(CYP-BAX48)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.cypress.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.cypress.com/?docID=45275"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.cypress.com/?docID=1012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. *J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Cypress"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max. Operating Temp. (degreesC)"; Value = "85"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max. Operating Voltage (V)"; Value = "3.6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Memory Architecture"; Value = "ROM/RAM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Memory Size (KB)"; Value = "16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min. Operating Temp. (degreesC)"; Value = "-40"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min. Operating Voltage (V)"; Value = "2.7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "No. of I/Os"; Value = "25"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "48-Ball Fine-Pitch Ball Grid Array, Body 7 x 7 mm, Pitch 0.75 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "BAX48"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Rev. *F, 09/2005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "Tray"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "CY7C67200-48BAXI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Pb-Free"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=FPGAPower Member=Component C? GRM155R71H103KA88D
+Added Member To Class: ClassName=Interface Member=Component J? 61301011121
+Added Member To Class: ClassName=Core Member=Component U? CY7C67200-48BAXI
+Added Room: Name=Core
+Added Room: Name=FPGABanks
+Added Room: Name=FPGAMisc
+Added Room: Name=FPGAPower
+Added Room: Name=Interface
+Added Room: Name=Power

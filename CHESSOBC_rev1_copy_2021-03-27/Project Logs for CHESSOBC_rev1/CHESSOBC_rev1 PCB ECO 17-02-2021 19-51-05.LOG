@@ -1,0 +1,46 @@
+Change Component Designator: OldDesignator=U? NewDesignator=FRAM1
+Change Net Name : Old Net Name=NetU1_AA16 New Net Name=NetFRAM1_F2
+Change Net Name : Old Net Name=NetU1_AB6 New Net Name=NetFRAM1_H1
+Change Net Name : Old Net Name=NetU1_AB7 New Net Name=NetFRAM1_B6
+Change Net Name : Old Net Name=NetU1_AB8 New Net Name=NetFRAM1_H3
+Change Net Name : Old Net Name=NetU1_AB9 New Net Name=NetFRAM1_G5
+Change Net Name : Old Net Name=NetU1_AB12 New Net Name=NetFRAM1_F6
+Change Net Name : Old Net Name=NetU1_AB13 New Net Name=NetFRAM1_E4
+Change Net Name : Old Net Name=NetU1_AB16 New Net Name=NetFRAM1_D4
+Change Net Name : Old Net Name=NetU1_AB17 New Net Name=NetFRAM1_B4
+Change Net Name : Old Net Name=NetU1_N7 New Net Name=NetFRAM1_G6
+Change Net Name : Old Net Name=NetU1_R11 New Net Name=NetFRAM1_H5
+Change Net Name : Old Net Name=NetU1_R12 New Net Name=NetFRAM1_G1
+Change Net Name : Old Net Name=NetU1_R16 New Net Name=NetFRAM1_C4
+Change Net Name : Old Net Name=NetU1_T10 New Net Name=NetFRAM1_A6
+Change Net Name : Old Net Name=NetU1_T11 New Net Name=NetFRAM1_F4
+Change Net Name : Old Net Name=NetU1_T12 New Net Name=NetFRAM1_A4
+Change Net Name : Old Net Name=NetU1_T13 New Net Name=NetFRAM1_C2
+Change Net Name : Old Net Name=NetU1_T14 New Net Name=NetFRAM1_D5
+Change Net Name : Old Net Name=NetU1_T16 New Net Name=NetFRAM1_A3
+Change Net Name : Old Net Name=NetU1_U9 New Net Name=NetFRAM1_B1
+Change Net Name : Old Net Name=NetU1_U10 New Net Name=NetFRAM1_G2
+Change Net Name : Old Net Name=NetU1_U11 New Net Name=NetFRAM1_H4
+Change Net Name : Old Net Name=NetU1_U12 New Net Name=NetFRAM1_E2
+Change Net Name : Old Net Name=NetU1_U13 New Net Name=NetFRAM1_D3
+Change Net Name : Old Net Name=NetU1_U14 New Net Name=NetFRAM1_C5
+Change Net Name : Old Net Name=NetU1_V9 New Net Name=NetFRAM1_A1
+Change Net Name : Old Net Name=NetU1_V10 New Net Name=NetFRAM1_F3
+Change Net Name : Old Net Name=NetU1_V11 New Net Name=NetFRAM1_F5
+Change Net Name : Old Net Name=NetU1_V12 New Net Name=NetFRAM1_H2
+Change Net Name : Old Net Name=NetU1_V13 New Net Name=NetFRAM1_D2
+Change Net Name : Old Net Name=NetU1_V14 New Net Name=NetFRAM1_C6
+Change Net Name : Old Net Name=NetU1_V15 New Net Name=NetFRAM1_B5
+Change Net Name : Old Net Name=NetU1_V16 New Net Name=NetFRAM1_A2
+Change Net Name : Old Net Name=NetU1_W8 New Net Name=NetFRAM1_A5
+Change Net Name : Old Net Name=NetU1_W9 New Net Name=NetFRAM1_G3
+Change Net Name : Old Net Name=NetU1_W10 New Net Name=NetFRAM1_G4
+Change Net Name : Old Net Name=NetU1_W11 New Net Name=NetFRAM1_H6
+Change Net Name : Old Net Name=NetU1_W12 New Net Name=NetFRAM1_E5
+Change Net Name : Old Net Name=NetU1_W13 New Net Name=NetFRAM1_C1
+Change Net Name : Old Net Name=NetU1_W14 New Net Name=NetFRAM1_E3
+Change Net Name : Old Net Name=NetU1_W15 New Net Name=NetFRAM1_C3
+Change Net Name : Old Net Name=NetU1_W16 New Net Name=NetFRAM1_B3
+Change Net Name : Old Net Name=NetU1_W17 New Net Name=NetFRAM1_B2
+Added Member To Class: ClassName=FPGAPower Member=Component C? GRM155R71H103KA88D
+Added Member To Class: ClassName=Interface Member=Component J? 61301011121

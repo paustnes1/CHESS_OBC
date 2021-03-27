@@ -1,0 +1,61 @@
+Removed Member From Class: ClassName=FPGAPower Member=C1
+Added Pin To Net: NetName=CASE Pin=ST1-1
+Added Pin To Net: NetName=CASE Pin=ST2-1
+Added Pin To Net: NetName=CASE Pin=ST3-1
+Added Pin To Net: NetName=CASE Pin=ST4-1
+Added Net: Name=CASE
+Added Member To Class: ClassName=FPGAPower Member=Component C3 CC0402KRX5R6BB334
+Added Member To Class: ClassName=FPGAPower Member=Component C16 10nF
+Added Member To Class: ClassName=FPGAPower Member=Component C17 100nF
+Added Member To Class: ClassName=FPGAPower Member=Component C18 10nF
+Added Member To Class: ClassName=FPGAPower Member=Component C20 10nF
+Added Member To Class: ClassName=FPGAPower Member=Component C21 100nF
+Added Member To Class: ClassName=FPGAPower Member=Component C22 10nF
+Added Member To Class: ClassName=FPGAPower Member=Component C23 100nF
+Added Member To Class: ClassName=FPGAPower Member=Component C24 10nF
+Added Member To Class: ClassName=FPGAPower Member=Component C25 100nF
+Added Member To Class: ClassName=FPGAPower Member=Component C27 100nF
+Added Member To Class: ClassName=FPGAPower Member=Component C28 10nF
+Added Member To Class: ClassName=FPGAPower Member=Component C29 10nF
+Added Member To Class: ClassName=FPGAPower Member=Component C31 100nF
+Added Member To Class: ClassName=FPGAPower Member=Component C32 10nF
+Added Member To Class: ClassName=FPGAPower Member=Component C33 100nF
+Added Member To Class: ClassName=FPGAPower Member=Component C34 10nF
+Added Member To Class: ClassName=FPGAPower Member=Component C35 100nF
+Added Member To Class: ClassName=FPGAPower Member=Component C36 10nF
+Added Member To Class: ClassName=FPGAPower Member=Component C38 10nF
+Added Member To Class: ClassName=FPGAPower Member=Component C40 10nF
+Added Member To Class: ClassName=FPGAPower Member=Component C42 10nF
+Added Member To Class: ClassName=FPGAPower Member=Component C43 10nF
+Added Member To Class: ClassName=FPGAPower Member=Component C44 10nF
+Added Member To Class: ClassName=FPGAPower Member=Component C45 100nF
+Added Member To Class: ClassName=FPGAPower Member=Component C46 10nF
+Added Member To Class: ClassName=FPGAPower Member=Component C47 100nF
+Added Member To Class: ClassName=FPGAPower Member=Component C48 1uF
+Added Member To Class: ClassName=FPGAPower Member=Component C50 100nF
+Added Member To Class: ClassName=FPGAPower Member=Component C51 10nF
+Added Member To Class: ClassName=FPGAPower Member=Component C53 1uF
+Added Member To Class: ClassName=FPGAPower Member=Component C55 10nF
+Added Member To Class: ClassName=FPGAPower Member=Component C64 10nF
+Added Member To Class: ClassName=FPGAPower Member=Component C66 10nF
+Added Member To Class: ClassName=FPGAPower Member=Component C67 1uF
+Added Member To Class: ClassName=FPGAPower Member=Component C68 10nF
+Added Member To Class: ClassName=FPGAPower Member=Component C69 100nF
+Added Member To Class: ClassName=FPGAPower Member=Component C70 10nF
+Added Member To Class: ClassName=FPGAPower Member=Component C71 100nF
+Added Member To Class: ClassName=FPGAPower Member=Component C73 10nF
+Added Member To Class: ClassName=FPGAPower Member=Component C75 10nF
+Added Member To Class: ClassName=FPGAPower Member=Component C78 10nF
+Added Member To Class: ClassName=FPGAPower Member=Component C79 10nF
+Added Member To Class: ClassName=FPGAPower Member=Component C80 100nF
+Added Member To Class: ClassName=FPGAPower Member=Component C82 100nF
+Added Member To Class: ClassName=FPGAPower Member=Component C83 10nF
+Added Member To Class: ClassName=Interface Member=Component R1 10k
+Added Member To Class: ClassName=Interface Member=Component R2 220R
+Added Member To Class: ClassName=Interface Member=Component R3 10k
+Added Room: Name=Core
+Added Room: Name=FPGABanks
+Added Room: Name=FPGAMisc
+Added Room: Name=FPGAPower
+Added Room: Name=Interface
+Added Room: Name=Power

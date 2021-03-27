@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=NetR2_2 Pin=R3-1
+Removed Pin From Net: NetName=NetR3_2 Pin=R3-2
+Removed Pin From Net: NetName=5Vmeas Pin=R4-2
+Removed Pin From Net: NetName=CAN_powerdown Pin=U1-T8
+Removed Pin From Net: NetName=mem_HOLD Pin=U2-1
+Removed Pin From Net: NetName=3.3Vpic Pin=U2-2
+Removed Pin From Net: NetName=SPI4_SS2 Pin=U2-7
+Removed Pin From Net: NetName=SPI4_SO Pin=U2-8
+Added Pin To Net: NetName=3.3V Pin=R3-1
+Added Pin To Net: NetName=NetR2_2 Pin=R3-1
+Added Pin To Net: NetName=NetR3_2 Pin=R3-2
+Added Pin To Net: NetName=NetR3_2 Pin=R4-1
+Added Pin To Net: NetName=5Vmeas Pin=R4-2
+Added Pin To Net: NetName=CAN_powerdown Pin=U1-T8
+Added Pin To Net: NetName=mem_HOLD Pin=U2-1
+Added Pin To Net: NetName=NetR4_1 Pin=U2-1
+Added Pin To Net: NetName=3.3Vpic Pin=U2-2
+Added Pin To Net: NetName=GND Pin=U2-2
+Added Pin To Net: NetName=GND Pin=U2-7
+Added Pin To Net: NetName=SPI4_SS2 Pin=U2-7
+Added Pin To Net: NetName=NetR2A_1 Pin=U2-8
+Added Pin To Net: NetName=SPI4_SO Pin=U2-8
+Added Member To Class: ClassName=Interface Member=Component J1 SSQ-126-03-G-D
+Added Room: Name=Core
+Added Room: Name=Interface
+Added Room: Name=Power

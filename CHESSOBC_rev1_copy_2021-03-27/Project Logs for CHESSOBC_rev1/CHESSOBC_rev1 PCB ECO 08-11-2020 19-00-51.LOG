@@ -1,0 +1,38 @@
+Removed Pin From Net: NetName=NetR2_2 Pin=R3-1
+Removed Pin From Net: NetName=NetR3_2 Pin=R3-2
+Removed Pin From Net: NetName=NetR3_2 Pin=R4-1
+Removed Pin From Net: NetName=5Vmeas Pin=R4-2
+Removed Member From Class: ClassName=Core Member=C6
+Removed Member From Class: ClassName=Core Member=C7
+Removed Member From Class: ClassName=Core Member=C14
+Added Component: Designator=R22(RESC1005X40X25LL05T10)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo / Phycomp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0402FR-0710KL"; VariantName = "[No Variations]"
+Added Component: Designator=R23(RESC1005X40X25ML05T10)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo / Phycomp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0402FR-07220RL"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3.3V_IN Pin=R3-1
+Added Pin To Net: NetName=NetR2_2 Pin=R3-1
+Added Pin To Net: NetName=NetR3_2 Pin=R3-2
+Added Pin To Net: NetName=NetR3_2 Pin=R4-1
+Added Pin To Net: NetName=NetR4_1 Pin=R4-1
+Added Pin To Net: NetName=5Vmeas Pin=R4-2
+Added Pin To Net: NetName=3.3V_IN Pin=R22-2
+Added Pin To Net: NetName=NetR3_2 Pin=R23-2
+Added Pin To Net: NetName=NetR3_2 Pin=U3-1
+Added Pin To Net: NetName=GND Pin=U3-8
+Added Pin To Net: NetName=GND Pin=U3-19
+Added Pin To Net: NetName=3.3V_IN Pin=U3-20
+Change Net Name : Old Net Name=NetR3_2 New Net Name=NetR23_2
+Added Pin To Net: NetName=NetC82_2 Pin=R22-1
+Added Pin To Net: NetName=NetC82_2 Pin=R23-1
+Added Net: Name=NetC82_2
+Added Member To Class: ClassName=Interface Member=Component R22 10k
+Added Member To Class: ClassName=Interface Member=Component R23 220R
+Added Room: Name=Core
+Added Room: Name=FPGABanks
+Added Room: Name=FPGAMisc
+Added Room: Name=FPGAPower
+Added Room: Name=Housekeeping
+Added Room: Name=Interface
+Added Room: Name=Power
