@@ -1,8 +1,1 @@
-Record=TopLevelDocument|FileName=Core.SchDoc|SheetNumber=2
-Record=NoMainPathDocument|SourceDocument=Core.SchDoc|FileName=FPGABanks.SchDoc|SheetNumber= 
-Record=NoMainPathDocument|SourceDocument=Core.SchDoc|FileName=FPGAMisc.SchDoc|SheetNumber= 
-Record=NoMainPathDocument|SourceDocument=Core.SchDoc|FileName=FPGAPower.SchDoc|SheetNumber= 
-Record=NoMainPathDocument|SourceDocument=Core.SchDoc|FileName=GPIO_Headers.SchDoc|SheetNumber= 
-Record=NoMainPathDocument|SourceDocument=Core.SchDoc|FileName=Housekeeping.SchDoc|SheetNumber=1
-Record=NoMainPathDocument|SourceDocument=Core.SchDoc|FileName=Interface.SchDoc|SheetNumber=3
-Record=NoMainPathDocument|SourceDocument=Core.SchDoc|FileName=Power.SchDoc|SheetNumber=4
+Record=TopLevelDocument|FileName=Core.SchDoc
