@@ -1,0 +1,99 @@
+Removed Pin From Net: NetName=NetSRAM1_A3 Pin=U1-F18
+Removed Pin From Net: NetName=NetSRAM1_C3 Pin=U1-F19
+Removed Pin From Net: NetName=NetSRAM1_A4 Pin=U1-G17
+Removed Pin From Net: NetName=NetSRAM1_B4 Pin=U1-G19
+Removed Pin From Net: NetName=NetSRAM1_B3 Pin=U1-H16
+Removed Pin From Net: NetName=NetSRAM1_G4 Pin=U1-H17
+Removed Pin From Net: NetName=NetSRAM1_D4 Pin=U1-H18
+Removed Pin From Net: NetName=NetSRAM1_H5 Pin=U1-H19
+Removed Pin From Net: NetName=NetSRAM1_A5 Pin=U1-J16
+Removed Pin From Net: NetName=NetSRAM1_C4 Pin=U1-J17
+Removed Pin From Net: NetName=NetSRAM1_H3 Pin=U1-J18
+Removed Pin From Net: NetName=NetSRAM1_H4 Pin=U1-J19
+Removed Pin From Net: NetName=NetSRAM1_F4 Pin=U1-J21
+Removed Pin From Net: NetName=NetSRAM1_F3 Pin=U1-J22
+Removed Pin From Net: NetName=NetSRAM1_D3 Pin=U1-K16
+Removed Pin From Net: NetName=NetSRAM1_H2 Pin=U1-K17
+Removed Pin From Net: NetName=NetSRAM1_F5 Pin=U1-K18
+Removed Pin From Net: NetName=NetSRAM1_E5 Pin=U1-K19
+Removed Pin From Net: NetName=NetSRAM1_F6 Pin=U1-K21
+Removed Pin From Net: NetName=NetSRAM1_G6 Pin=U1-K22
+Removed Pin From Net: NetName=NetSRAM1_E4 Pin=U1-L15
+Removed Pin From Net: NetName=NetSRAM1_G2 Pin=U1-L16
+Removed Pin From Net: NetName=NetSRAM1_G5 Pin=U1-L17
+Removed Pin From Net: NetName=NetSRAM1_G3 Pin=U1-L18
+Removed Pin From Net: NetName=NetSRAM1_H1 Pin=U1-L19
+Removed Pin From Net: NetName=NetSRAM1_C1 Pin=U1-L20
+Removed Pin From Net: NetName=NetSRAM1_B1 Pin=U1-L21
+Removed Pin From Net: NetName=NetSRAM1_C2 Pin=U1-L22
+Removed Pin From Net: NetName=NetSRAM1_C5 Pin=U1-M15
+Removed Pin From Net: NetName=NetSRAM1_B5 Pin=U1-M16
+Removed Pin From Net: NetName=NetSRAM1_D5 Pin=U1-M17
+Removed Pin From Net: NetName=NetSRAM1_G1 Pin=U1-M18
+Removed Pin From Net: NetName=NetSRAM1_A6 Pin=U1-M19
+Removed Pin From Net: NetName=NetSRAM1_F2 Pin=U1-M20
+Removed Pin From Net: NetName=NetSRAM1_D2 Pin=U1-M21
+Removed Pin From Net: NetName=NetSRAM1_B6 Pin=U1-N16
+Removed Pin From Net: NetName=NetSRAM1_F1 Pin=U1-N17
+Removed Pin From Net: NetName=NetSRAM1_C6 Pin=U1-N18
+Removed Pin From Net: NetName=NetSRAM1_A2 Pin=U1-N19
+Removed Pin From Net: NetName=NetSRAM1_E2 Pin=U1-N21
+Removed Pin From Net: NetName=NetSRAM1_H6 Pin=U1-P21
+Removed Pin From Net: NetName=NetSRAM1_E3 Pin=U1-R21
+Removed Pin From Net: NetName=NetSRAM1_B2 Pin=U1-R22
+Removed Pin From Net: NetName=NetSRAM1_A1 Pin=U1-T22
+Change Component Comment : Designator=SRAM1 Old Comment=MT45W1MW16PDGA-70 IT New Comment=CY62167GE30-45BV1XI
+Change Managed Component Library Link : Designator=SRAM1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=8363F5BC-5854-420F-8638-049E2ACA549A New ItemGUID= Old RevisionGUID=6DB1D0BB-623D-4648-AD76-1AFA3751C24F New RevisionGUID=
+Change component parameters: Designator = "SRAM1" ("SRAM1"); Footprint = "MICT-GA-48"; UniqueID = "\NZFYWMPJ" ("\NZFYWMPJ")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "CY62167GE30-45BV1XI"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/cy62167ge30-45bv1xi/cypress-semiconductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/dk/DKDS-12/238198.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Cypress Semiconductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CY62167GE30-45BV1XI"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "727-CY62167GE30BV1XI"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Cypress-Semiconductor/CY62167GE30-45BV1XI/?qs=3FnuM6ZipRIEqfAGSsiEJg%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetSRAM1_A1 Pin=U1-F18
+Added Pin To Net: NetName=NetSRAM1_A6 Pin=U1-F19
+Added Pin To Net: NetName=NetSRAM1_A2 Pin=U1-G17
+Added Pin To Net: NetName=NetSRAM1_A5 Pin=U1-G19
+Added Pin To Net: NetName=NetSRAM1_A4 Pin=U1-H16
+Added Pin To Net: NetName=NetSRAM1_C2 Pin=U1-H17
+Added Pin To Net: NetName=NetSRAM1_B2 Pin=U1-H18
+Added Pin To Net: NetName=NetSRAM1_B6 Pin=U1-H19
+Added Pin To Net: NetName=NetSRAM1_A3 Pin=U1-J16
+Added Pin To Net: NetName=NetSRAM1_B1 Pin=U1-J17
+Added Pin To Net: NetName=NetSRAM1_B4 Pin=U1-J18
+Added Pin To Net: NetName=NetSRAM1_B5 Pin=U1-J19
+Added Pin To Net: NetName=NetSRAM1_C4 Pin=U1-J21
+Added Pin To Net: NetName=NetSRAM1_C3 Pin=U1-J22
+Added Pin To Net: NetName=NetSRAM1_C6 Pin=U1-K16
+Added Pin To Net: NetName=NetSRAM1_B3 Pin=U1-K17
+Added Pin To Net: NetName=NetSRAM1_F4 Pin=U1-K18
+Added Pin To Net: NetName=NetSRAM1_F3 Pin=U1-K19
+Added Pin To Net: NetName=NetSRAM1_F5 Pin=U1-K21
+Added Pin To Net: NetName=NetSRAM1_F6 Pin=U1-K22
+Added Pin To Net: NetName=NetSRAM1_C5 Pin=U1-L15
+Added Pin To Net: NetName=NetSRAM1_D3 Pin=U1-L16
+Added Pin To Net: NetName=NetSRAM1_D4 Pin=U1-L17
+Added Pin To Net: NetName=NetSRAM1_C1 Pin=U1-L18
+Added Pin To Net: NetName=NetSRAM1_D2 Pin=U1-L19
+Added Pin To Net: NetName=NetSRAM1_G2 Pin=U1-L20
+Added Pin To Net: NetName=NetSRAM1_G1 Pin=U1-L21
+Added Pin To Net: NetName=NetSRAM1_G3 Pin=U1-L22
+Added Pin To Net: NetName=NetSRAM1_E5 Pin=U1-M15
+Added Pin To Net: NetName=NetSRAM1_D5 Pin=U1-M16
+Added Pin To Net: NetName=NetSRAM1_F2 Pin=U1-M17
+Added Pin To Net: NetName=NetSRAM1_H2 Pin=U1-M18
+Added Pin To Net: NetName=NetSRAM1_E3 Pin=U1-M19
+Added Pin To Net: NetName=NetSRAM1_G6 Pin=U1-M20
+Added Pin To Net: NetName=NetSRAM1_G4 Pin=U1-M21
+Added Pin To Net: NetName=NetSRAM1_E4 Pin=U1-N16
+Added Pin To Net: NetName=NetSRAM1_H1 Pin=U1-N17
+Added Pin To Net: NetName=NetSRAM1_F1 Pin=U1-N18
+Added Pin To Net: NetName=NetSRAM1_E2 Pin=U1-N19
+Added Pin To Net: NetName=NetSRAM1_G5 Pin=U1-N21
+Added Pin To Net: NetName=NetSRAM1_H4 Pin=U1-P21
+Added Pin To Net: NetName=NetSRAM1_H3 Pin=U1-R21
+Added Pin To Net: NetName=NetSRAM1_H6 Pin=U1-R22
+Added Pin To Net: NetName=NetSRAM1_H5 Pin=U1-T22
