@@ -1,0 +1,120 @@
+Removed Pin From Net: NetName=NetFRAM1_A6 Pin=U1-R16
+Change Component Footprint: Designator=FRAM1 Old Footprint=CYP-BAX48 New Footprint=BGA48C75P6X8_600X800X120
+Change Component Footprint: Designator=SRAM1 Old Footprint=MICT-GA-48 New Footprint=BGA48C75P6X8_600X800X100
+Added Component: Designator=LED1(LEDC3015X190N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Stanley Electric"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RPG1102W-660-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = "327-RPG1102W660TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=327-RPG1102W660TR"; VariantName = "[No Variations]"
+Added Component: Designator=LED2(LEDC3015X190N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Stanley Electric"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RPG1102W-660-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = "327-RPG1102W660TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=327-RPG1102W660TR"; VariantName = "[No Variations]"
+Added Component: Designator=LED_FPGA_1(LEDM168X65N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.rohm.com/datasheet/SMLD12BN1W/smld12-e"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.65mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "ROHM Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SMLD12BN1WT86"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED_FPGA_2(LEDM168X65N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.rohm.com/datasheet/SMLD12BN1W/smld12-e"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.65mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "ROHM Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SMLD12BN1WT86"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED_FPGA_3(LEDM168X65N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.rohm.com/datasheet/SMLD12BN1W/smld12-e"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.65mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "ROHM Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SMLD12BN1WT86"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R100(RESC3116X65N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.sos.sk/productdata/35/10/4/35104/RC1206.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.65mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC1206JR-07180RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R101(RESC2012X60N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.mouser.de/datasheet/2/219/RN73H-1843478.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "KOA Speer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RN73H2ATTD75R0B25"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R_LED3_80Ohm(RESC1608X50N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com//RCS060382R0FKEA.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RCS060382R0FKEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = "71-RCS060382R0FKEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=71-RCS060382R0FKEA"; VariantName = "[No Variations]"
+Added Component: Designator=R_LED4_80Ohm(RESC1608X50N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com//RCS060382R0FKEA.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RCS060382R0FKEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = "71-RCS060382R0FKEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=71-RCS060382R0FKEA"; VariantName = "[No Variations]"
+Added Component: Designator=R_LED5_80Ohm(RESC1608X50N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com//RCS060382R0FKEA.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RCS060382R0FKEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = "71-RCS060382R0FKEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=71-RCS060382R0FKEA"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetLED1_1 Pin=LED1-1
+Added Pin To Net: NetName=NetLED1_2 Pin=LED1-2
+Added Pin To Net: NetName=NetLED2_1 Pin=LED2-1
+Added Pin To Net: NetName=+3V3 Pin=LED2-2
+Added Pin To Net: NetName=NetLED1_1 Pin=R100-1
+Added Pin To Net: NetName=GND Pin=R100-2
+Added Pin To Net: NetName=NetLED2_1 Pin=R101-1
+Added Pin To Net: NetName=GND Pin=R101-2
+Added Pin To Net: NetName=GND Pin=R_LED3_80Ohm-2
+Added Pin To Net: NetName=GND Pin=R_LED4_80Ohm-2
+Added Pin To Net: NetName=GND Pin=R_LED5_80Ohm-2
+Added Pin To Net: NetName=NetFRAM1_A6 Pin=U1-D22
+Added Pin To Net: NetName=NetLED_FPGA_1_1 Pin=LED_FPGA_1-1
+Added Pin To Net: NetName=NetLED_FPGA_1_1 Pin=R_LED3_80Ohm-1
+Added Net: Name=NetLED_FPGA_1_1
+Added Pin To Net: NetName=NetLED_FPGA_1_2 Pin=LED_FPGA_1-2
+Added Pin To Net: NetName=NetLED_FPGA_1_2 Pin=U1-A4
+Added Net: Name=NetLED_FPGA_1_2
+Added Pin To Net: NetName=NetLED_FPGA_2_1 Pin=LED_FPGA_2-1
+Added Pin To Net: NetName=NetLED_FPGA_2_1 Pin=R_LED4_80Ohm-1
+Added Net: Name=NetLED_FPGA_2_1
+Added Pin To Net: NetName=NetLED_FPGA_2_2 Pin=LED_FPGA_2-2
+Added Pin To Net: NetName=NetLED_FPGA_2_2 Pin=U1-A5
+Added Net: Name=NetLED_FPGA_2_2
+Added Pin To Net: NetName=NetLED_FPGA_3_1 Pin=LED_FPGA_3-1
+Added Pin To Net: NetName=NetLED_FPGA_3_1 Pin=R_LED5_80Ohm-1
+Added Net: Name=NetLED_FPGA_3_1
+Added Pin To Net: NetName=NetLED_FPGA_3_2 Pin=LED_FPGA_3-2
+Added Pin To Net: NetName=NetLED_FPGA_3_2 Pin=U1-A8
+Added Net: Name=NetLED_FPGA_3_2
+Added Member To Class: ClassName=Power Member=Component LED1 RPG1102W-660-TR
+Added Member To Class: ClassName=Power Member=Component LED2 RPG1102W-660-TR
+Added Member To Class: ClassName=Power Member=Component LED_FPGA_1 SMLD12BN1WT86
+Added Member To Class: ClassName=Power Member=Component LED_FPGA_2 SMLD12BN1WT86
+Added Member To Class: ClassName=Power Member=Component LED_FPGA_3 SMLD12BN1WT86
+Added Member To Class: ClassName=Power Member=Component R100 RC1206JR-07180RL
+Added Member To Class: ClassName=Power Member=Component R101 RN73H2ATTD75R0B25
+Added Member To Class: ClassName=Power Member=Component R_LED3_80Ohm RCS060382R0FKEA
+Added Member To Class: ClassName=Power Member=Component R_LED4_80Ohm RCS060382R0FKEA
+Added Member To Class: ClassName=Power Member=Component R_LED5_80Ohm RCS060382R0FKEA
+Added Room: Name=Core
+Added Room: Name=FPGABanks
+Added Room: Name=FPGAMisc
+Added Room: Name=FPGAPower
+Added Room: Name=GPIO_Headers
+Added Room: Name=Interface
+Added Room: Name=Power

@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=NetFRAM1_A4 Pin=U1-T16
+Removed Pin From Net: NetName=NetFRAM1_A3 Pin=U1-W15
+Removed Pin From Net: NetName=NetFRAM1_A5 Pin=U1-W16
+Added Pin To Net: NetName=NetFRAM1_A5 Pin=U1-E1
+Added Pin To Net: NetName=NetFRAM1_A4 Pin=U1-F22
+Added Pin To Net: NetName=NetFRAM1_A3 Pin=U1-G22
