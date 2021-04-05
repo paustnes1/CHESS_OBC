@@ -24,7 +24,6 @@ ReorderDocumentsOnCompile=1
 NameNetsHierarchically=0
 PowerPortNamesTakePriority=0
 AutoSheetNumbering=0
-AutoCrossReferences=0
 PushECOToAnnotationFile=1
 DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
@@ -75,7 +74,7 @@ GenerateClassCluster=0
 DocumentUniqueId=DURUMPZN
 
 [Document3]
-DocumentPath=Core.SchDoc
+DocumentPath=Memory.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
