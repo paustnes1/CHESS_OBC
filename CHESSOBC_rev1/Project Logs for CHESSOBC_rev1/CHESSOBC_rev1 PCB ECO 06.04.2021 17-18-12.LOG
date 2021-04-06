@@ -1,0 +1,816 @@
+Removed Pin From Net: NetName=+3V3 Pin=C58-1
+Removed Pin From Net: NetName=GND Pin=C58-2
+Removed Pin From Net: NetName=GND Pin=C61-1
+Removed Pin From Net: NetName=+3V3 Pin=C61-2
+Removed Pin From Net: NetName=NetCOM_Header_15 Pin=J1-35
+Removed Pin From Net: NetName=NetCOM_Header_14 Pin=J1-37
+Removed Pin From Net: NetName=NetCOM_Header_13 Pin=J1-38
+Removed Pin From Net: NetName=NetCOM_Header_16 Pin=J1-39
+Removed Pin From Net: NetName=NetCOM_Header_17 Pin=J1-40
+Removed Pin From Net: NetName=NetCOM_Header_3 Pin=J1-42
+Removed Pin From Net: NetName=NetCOM_Header_1 Pin=J1-44
+Removed Pin From Net: NetName=NetCOM_Header_9 Pin=J2-37
+Removed Pin From Net: NetName=NetCOM_Header_8 Pin=J2-38
+Removed Pin From Net: NetName=NetCOM_Header_7 Pin=J2-39
+Removed Pin From Net: NetName=NetCOM_Header_10 Pin=J2-40
+Removed Pin From Net: NetName=NetCOM_Header_2 Pin=J2-41
+Removed Pin From Net: NetName=NetCOM_Header_4 Pin=J2-43
+Removed Pin From Net: NetName=NetCOM_Header_5 Pin=J2-44
+Removed Pin From Net: NetName=NetJ1_19 Pin=R10-1
+Removed Pin From Net: NetName=NetJ1_20 Pin=R11-1
+Removed Pin From Net: NetName=GND Pin=U1-A1
+Removed Pin From Net: NetName=GND Pin=U1-A2
+Removed Pin From Net: NetName=+3.3V Pin=U1-A3
+Removed Pin From Net: NetName=NetLED_FPGA_1_2 Pin=U1-A4
+Removed Pin From Net: NetName=NetLED_FPGA_2_2 Pin=U1-A5
+Removed Pin From Net: NetName=NetCOM_Header_2 Pin=U1-A6
+Removed Pin From Net: NetName=NetCOM_Header_8 Pin=U1-A7
+Removed Pin From Net: NetName=NetLED_FPGA_3_2 Pin=U1-A8
+Removed Pin From Net: NetName=NetCOM_Header_16 Pin=U1-A10
+Removed Pin From Net: NetName=NetFLASH1_5 Pin=U1-A11
+Removed Pin From Net: NetName=NetJ1_20 Pin=U1-A13
+Removed Pin From Net: NetName=+3.3V Pin=U1-A20
+Removed Pin From Net: NetName=GND Pin=U1-A21
+Removed Pin From Net: NetName=GND Pin=U1-A22
+Removed Pin From Net: NetName=GND Pin=U1-AA1
+Removed Pin From Net: NetName=+3.3V Pin=U1-AA2
+Removed Pin From Net: NetName=NetFRAM1_C2 Pin=U1-AA16
+Removed Pin From Net: NetName=+3.3V Pin=U1-AA21
+Removed Pin From Net: NetName=GND Pin=U1-AA22
+Removed Pin From Net: NetName=GND Pin=U1-AB1
+Removed Pin From Net: NetName=GND Pin=U1-AB2
+Removed Pin From Net: NetName=+3.3V Pin=U1-AB3
+Removed Pin From Net: NetName=NetFRAM1_H6 Pin=U1-AB6
+Removed Pin From Net: NetName=NetFRAM1_H4 Pin=U1-AB7
+Removed Pin From Net: NetName=NetFRAM1_G3 Pin=U1-AB8
+Removed Pin From Net: NetName=NetFRAM1_F3 Pin=U1-AB9
+Removed Pin From Net: NetName=NetFRAM1_E5 Pin=U1-AB12
+Removed Pin From Net: NetName=NetFRAM1_E4 Pin=U1-AB13
+Removed Pin From Net: NetName=NetFRAM1_C1 Pin=U1-AB16
+Removed Pin From Net: NetName=NetFRAM1_B1 Pin=U1-AB17
+Removed Pin From Net: NetName=+3.3V Pin=U1-AB20
+Removed Pin From Net: NetName=GND Pin=U1-AB21
+Removed Pin From Net: NetName=GND Pin=U1-AB22
+Removed Pin From Net: NetName=GND Pin=U1-B1
+Removed Pin From Net: NetName=+3.3V Pin=U1-B2
+Removed Pin From Net: NetName=NetCOM_Header_3 Pin=U1-B6
+Removed Pin From Net: NetName=NetCOM_Header_5 Pin=U1-B7
+Removed Pin From Net: NetName=NetCOM_Header_10 Pin=U1-B10
+Removed Pin From Net: NetName=+3.3V Pin=U1-B21
+Removed Pin From Net: NetName=GND Pin=U1-B22
+Removed Pin From Net: NetName=+3.3V Pin=U1-C1
+Removed Pin From Net: NetName=GND Pin=U1-C5
+Removed Pin From Net: NetName=+1.5V Pin=U1-C8
+Removed Pin From Net: NetName=+1.5V Pin=U1-C9
+Removed Pin From Net: NetName=+1.5V Pin=U1-C14
+Removed Pin From Net: NetName=+1.5V Pin=U1-C15
+Removed Pin From Net: NetName=GND Pin=U1-C18
+Removed Pin From Net: NetName=NetFRAM1_B4 Pin=U1-C21
+Removed Pin From Net: NetName=+3.3V Pin=U1-C22
+Removed Pin From Net: NetName=GND Pin=U1-D4
+Removed Pin From Net: NetName=NetCOM_Header_4 Pin=U1-D8
+Removed Pin From Net: NetName=NetCOM_Header_7 Pin=U1-D9
+Removed Pin From Net: NetName=NetCOM_Header_15 Pin=U1-D10
+Removed Pin From Net: NetName=NetJ1_19 Pin=U1-D12
+Removed Pin From Net: NetName=GND Pin=U1-D19
+Removed Pin From Net: NetName=NetFRAM1_A6 Pin=U1-D22
+Removed Pin From Net: NetName=GND Pin=U1-E3
+Removed Pin From Net: NetName=GND Pin=U1-E6
+Removed Pin From Net: NetName=NetCOM_Header_6 Pin=U1-E8
+Removed Pin From Net: NetName=NetCOM_Header_9 Pin=U1-E9
+Removed Pin From Net: NetName=NetCOM_Header_17 Pin=U1-E10
+Removed Pin From Net: NetName=NetFLASH1_1 Pin=U1-E11
+Removed Pin From Net: NetName=NetFLASH1_7 Pin=U1-E18
+Removed Pin From Net: NetName=NetFLASH1_3 Pin=U1-E19
+Removed Pin From Net: NetName=GND Pin=U1-E20
+Removed Pin From Net: NetName=NetFRAM1_A5 Pin=U1-E22
+Removed Pin From Net: NetName=+3.3V Pin=U1-F6
+Removed Pin From Net: NetName=VPLL_3000 Pin=U1-F7
+Removed Pin From Net: NetName=NetCOM_Header_13 Pin=U1-F10
+Removed Pin From Net: NetName=NetFLASH1_2 Pin=U1-F11
+Removed Pin From Net: NetName=+3.3V Pin=U1-F17
+Removed Pin From Net: NetName=NetSRAM1_A1 Pin=U1-F18
+Removed Pin From Net: NetName=NetSRAM1_A6 Pin=U1-F19
+Removed Pin From Net: NetName=NetFRAM1_A4 Pin=U1-F22
+Removed Pin From Net: NetName=GND_3000 Pin=U1-G7
+Removed Pin From Net: NetName=GND Pin=U1-G8
+Removed Pin From Net: NetName=NetCOM_Header_1 Pin=U1-G9
+Removed Pin From Net: NetName=NetCOM_Header_14 Pin=U1-G10
+Removed Pin From Net: NetName=NetPIC1_7 Pin=U1-G11
+Removed Pin From Net: NetName=GND Pin=U1-G15
+Removed Pin From Net: NetName=NetSRAM1_A2 Pin=U1-G17
+Removed Pin From Net: NetName=NetSRAM1_A5 Pin=U1-G19
+Removed Pin From Net: NetName=NetFRAM1_A3 Pin=U1-G22
+Removed Pin From Net: NetName=+1.5V Pin=U1-H3
+Removed Pin From Net: NetName=+3.3V Pin=U1-H8
+Removed Pin From Net: NetName=+3.3V Pin=U1-H9
+Removed Pin From Net: NetName=+3.3V Pin=U1-H10
+Removed Pin From Net: NetName=NetFLASH1_6 Pin=U1-H11
+Removed Pin From Net: NetName=+3.3V Pin=U1-H13
+Removed Pin From Net: NetName=+3.3V Pin=U1-H14
+Removed Pin From Net: NetName=+3.3V Pin=U1-H15
+Removed Pin From Net: NetName=NetSRAM1_A4 Pin=U1-H16
+Removed Pin From Net: NetName=NetSRAM1_C2 Pin=U1-H17
+Removed Pin From Net: NetName=NetSRAM1_B2 Pin=U1-H18
+Removed Pin From Net: NetName=NetSRAM1_B6 Pin=U1-H19
+Removed Pin From Net: NetName=+1.5V Pin=U1-H20
+Removed Pin From Net: NetName=+3V3 Pin=U1-H21
+Removed Pin From Net: NetName=+3.3V Pin=U1-J8
+Removed Pin From Net: NetName=GND Pin=U1-J9
+Removed Pin From Net: NetName=+1.5V Pin=U1-J10
+Removed Pin From Net: NetName=+1.5V Pin=U1-J11
+Removed Pin From Net: NetName=+1.5V Pin=U1-J12
+Removed Pin From Net: NetName=+1.5V Pin=U1-J13
+Removed Pin From Net: NetName=GND Pin=U1-J14
+Removed Pin From Net: NetName=+3.3V Pin=U1-J15
+Removed Pin From Net: NetName=NetSRAM1_A3 Pin=U1-J16
+Removed Pin From Net: NetName=NetSRAM1_B1 Pin=U1-J17
+Removed Pin From Net: NetName=NetSRAM1_B4 Pin=U1-J18
+Removed Pin From Net: NetName=NetSRAM1_B5 Pin=U1-J19
+Removed Pin From Net: NetName=GND Pin=U1-J20
+Removed Pin From Net: NetName=NetSRAM1_C4 Pin=U1-J21
+Removed Pin From Net: NetName=NetSRAM1_C3 Pin=U1-J22
+Removed Pin From Net: NetName=GND Pin=U1-K3
+Removed Pin From Net: NetName=+3.3V Pin=U1-K8
+Removed Pin From Net: NetName=+1.5V Pin=U1-K9
+Removed Pin From Net: NetName=GND Pin=U1-K10
+Removed Pin From Net: NetName=GND Pin=U1-K11
+Removed Pin From Net: NetName=GND Pin=U1-K12
+Removed Pin From Net: NetName=GND Pin=U1-K13
+Removed Pin From Net: NetName=+1.5V Pin=U1-K14
+Removed Pin From Net: NetName=+3.3V Pin=U1-K15
+Removed Pin From Net: NetName=NetSRAM1_C6 Pin=U1-K16
+Removed Pin From Net: NetName=NetSRAM1_B3 Pin=U1-K17
+Removed Pin From Net: NetName=NetSRAM1_F4 Pin=U1-K18
+Removed Pin From Net: NetName=NetSRAM1_F3 Pin=U1-K19
+Removed Pin From Net: NetName=NetSRAM1_F5 Pin=U1-K21
+Removed Pin From Net: NetName=NetSRAM1_F6 Pin=U1-K22
+Removed Pin From Net: NetName=NetU1_L5 Pin=U1-L5
+Removed Pin From Net: NetName=GND Pin=U1-L7
+Removed Pin From Net: NetName=+1.5V Pin=U1-L9
+Removed Pin From Net: NetName=GND Pin=U1-L10
+Removed Pin From Net: NetName=GND Pin=U1-L11
+Removed Pin From Net: NetName=GND Pin=U1-L12
+Removed Pin From Net: NetName=GND Pin=U1-L13
+Removed Pin From Net: NetName=+1.5V Pin=U1-L14
+Removed Pin From Net: NetName=NetSRAM1_C5 Pin=U1-L15
+Removed Pin From Net: NetName=NetSRAM1_D3 Pin=U1-L16
+Removed Pin From Net: NetName=NetSRAM1_D4 Pin=U1-L17
+Removed Pin From Net: NetName=NetSRAM1_C1 Pin=U1-L18
+Removed Pin From Net: NetName=NetSRAM1_D2 Pin=U1-L19
+Removed Pin From Net: NetName=NetSRAM1_G2 Pin=U1-L20
+Removed Pin From Net: NetName=NetSRAM1_G1 Pin=U1-L21
+Removed Pin From Net: NetName=NetSRAM1_G3 Pin=U1-L22
+Removed Pin From Net: NetName=GND Pin=U1-M1
+Removed Pin From Net: NetName=VPLL Pin=U1-M6
+Removed Pin From Net: NetName=+1.5V Pin=U1-M9
+Removed Pin From Net: NetName=GND Pin=U1-M10
+Removed Pin From Net: NetName=GND Pin=U1-M11
+Removed Pin From Net: NetName=GND Pin=U1-M12
+Removed Pin From Net: NetName=GND Pin=U1-M13
+Removed Pin From Net: NetName=+1.5V Pin=U1-M14
+Removed Pin From Net: NetName=NetSRAM1_E5 Pin=U1-M15
+Removed Pin From Net: NetName=NetSRAM1_D5 Pin=U1-M16
+Removed Pin From Net: NetName=NetSRAM1_F2 Pin=U1-M17
+Removed Pin From Net: NetName=NetSRAM1_H2 Pin=U1-M18
+Removed Pin From Net: NetName=NetSRAM1_E3 Pin=U1-M19
+Removed Pin From Net: NetName=NetSRAM1_G6 Pin=U1-M20
+Removed Pin From Net: NetName=NetSRAM1_G4 Pin=U1-M21
+Removed Pin From Net: NetName=NetFRAM1_H5 Pin=U1-N7
+Removed Pin From Net: NetName=+3.3V Pin=U1-N8
+Removed Pin From Net: NetName=+1.5V Pin=U1-N9
+Removed Pin From Net: NetName=GND Pin=U1-N10
+Removed Pin From Net: NetName=GND Pin=U1-N11
+Removed Pin From Net: NetName=GND Pin=U1-N12
+Removed Pin From Net: NetName=GND Pin=U1-N13
+Removed Pin From Net: NetName=+1.5V Pin=U1-N14
+Removed Pin From Net: NetName=+3.3V Pin=U1-N15
+Removed Pin From Net: NetName=NetSRAM1_E4 Pin=U1-N16
+Removed Pin From Net: NetName=NetSRAM1_H1 Pin=U1-N17
+Removed Pin From Net: NetName=NetSRAM1_F1 Pin=U1-N18
+Removed Pin From Net: NetName=NetSRAM1_E2 Pin=U1-N19
+Removed Pin From Net: NetName=GND Pin=U1-N20
+Removed Pin From Net: NetName=NetSRAM1_G5 Pin=U1-N21
+Removed Pin From Net: NetName=+3.3V Pin=U1-P8
+Removed Pin From Net: NetName=GND Pin=U1-P9
+Removed Pin From Net: NetName=+1.5V Pin=U1-P10
+Removed Pin From Net: NetName=+1.5V Pin=U1-P11
+Removed Pin From Net: NetName=+1.5V Pin=U1-P12
+Removed Pin From Net: NetName=+1.5V Pin=U1-P13
+Removed Pin From Net: NetName=GND Pin=U1-P14
+Removed Pin From Net: NetName=+3.3V Pin=U1-P15
+Removed Pin From Net: NetName=NetSRAM1_H4 Pin=U1-P21
+Removed Pin From Net: NetName=+3V3 Pin=U1-P22
+Removed Pin From Net: NetName=+1.5V Pin=U1-R3
+Removed Pin From Net: NetName=+3.3V Pin=U1-R8
+Removed Pin From Net: NetName=+3.3V Pin=U1-R9
+Removed Pin From Net: NetName=+3.3V Pin=U1-R10
+Removed Pin From Net: NetName=NetFRAM1_F4 Pin=U1-R11
+Removed Pin From Net: NetName=NetFRAM1_E2 Pin=U1-R12
+Removed Pin From Net: NetName=+3.3V Pin=U1-R13
+Removed Pin From Net: NetName=+3.3V Pin=U1-R14
+Removed Pin From Net: NetName=+3.3V Pin=U1-R15
+Removed Pin From Net: NetName=+1.5V Pin=U1-R20
+Removed Pin From Net: NetName=NetSRAM1_H3 Pin=U1-R21
+Removed Pin From Net: NetName=NetSRAM1_H6 Pin=U1-R22
+Removed Pin From Net: NetName=GND Pin=U1-T8
+Removed Pin From Net: NetName=NetFRAM1_H2 Pin=U1-T10
+Removed Pin From Net: NetName=NetFRAM1_G1 Pin=U1-T11
+Removed Pin From Net: NetName=NetFRAM1_D4 Pin=U1-T12
+Removed Pin From Net: NetName=NetFRAM1_C4 Pin=U1-T13
+Removed Pin From Net: NetName=NetFRAM1_B6 Pin=U1-T14
+Removed Pin From Net: NetName=GND Pin=U1-T15
+Removed Pin From Net: NetName=+3.3V_JTAG Pin=U1-T17
+Removed Pin From Net: NetName=NetSRAM1_H5 Pin=U1-T22
+Removed Pin From Net: NetName=+3.3V Pin=U1-U6
+Removed Pin From Net: NetName=NetFRAM1_G6 Pin=U1-U10
+Removed Pin From Net: NetName=NetFRAM1_F6 Pin=U1-U11
+Removed Pin From Net: NetName=NetFRAM1_D3 Pin=U1-U12
+Removed Pin From Net: NetName=NetFRAM1_C5 Pin=U1-U13
+Removed Pin From Net: NetName=NetFRAM1_B3 Pin=U1-U14
+Removed Pin From Net: NetName=+3.3V Pin=U1-U15
+Removed Pin From Net: NetName=NetPIC1_4 Pin=U1-U16
+Removed Pin From Net: NetName=+3.3V_VPUMP Pin=U1-U17
+Removed Pin From Net: NetName=NetPIC1_2 Pin=U1-U18
+Removed Pin From Net: NetName=GND Pin=U1-V3
+Removed Pin From Net: NetName=NetFRAM1_H3 Pin=U1-V9
+Removed Pin From Net: NetName=NetFRAM1_G2 Pin=U1-V10
+Removed Pin From Net: NetName=NetFRAM1_F1 Pin=U1-V11
+Removed Pin From Net: NetName=NetFRAM1_D5 Pin=U1-V12
+Removed Pin From Net: NetName=NetFRAM1_C6 Pin=U1-V13
+Removed Pin From Net: NetName=NetFRAM1_B2 Pin=U1-V15
+Removed Pin From Net: NetName=NetFRAM1_A2 Pin=U1-V16
+Removed Pin From Net: NetName=NetPIC1_6 Pin=U1-V17
+Removed Pin From Net: NetName=GND Pin=U1-V18
+Removed Pin From Net: NetName=NetPIC1_5 Pin=U1-V19
+Removed Pin From Net: NetName=GND Pin=U1-V20
+Removed Pin From Net: NetName=GND Pin=U1-W4
+Removed Pin From Net: NetName=NetFRAM1_H1 Pin=U1-W8
+Removed Pin From Net: NetName=NetFRAM1_G4 Pin=U1-W9
+Removed Pin From Net: NetName=NetFRAM1_F5 Pin=U1-W10
+Removed Pin From Net: NetName=NetFRAM1_F2 Pin=U1-W11
+Removed Pin From Net: NetName=NetFRAM1_E3 Pin=U1-W12
+Removed Pin From Net: NetName=NetFRAM1_D2 Pin=U1-W13
+Removed Pin From Net: NetName=NetFRAM1_C3 Pin=U1-W14
+Removed Pin From Net: NetName=NetFRAM1_A1 Pin=U1-W17
+Removed Pin From Net: NetName=NetPIC1_3 Pin=U1-W18
+Removed Pin From Net: NetName=GND Pin=U1-W19
+Removed Pin From Net: NetName=+3.3V Pin=U1-Y1
+Removed Pin From Net: NetName=GND Pin=U1-Y5
+Removed Pin From Net: NetName=+1.5V Pin=U1-Y8
+Removed Pin From Net: NetName=+1.5V Pin=U1-Y9
+Removed Pin From Net: NetName=+1.5V Pin=U1-Y14
+Removed Pin From Net: NetName=+1.5V Pin=U1-Y15
+Removed Pin From Net: NetName=GND Pin=U1-Y18
+Removed Pin From Net: NetName=+3.3V Pin=U1-Y22
+Removed Member From Class: ClassName=FPGAMisc Member=C58
+Removed Member From Class: ClassName=FPGAMisc Member=C61
+Added Component: Designator=C?(FP-GRM155-0_05-IPC_C)
+Add component (AddParameter): Name = "Capacitance"; Value = "10nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "1005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "0.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness"; Value = "0.022inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.02inch"; VariantName = "[No Variations]"
+Added Component: Designator=C?(FP-GRM155-0_05-IPC_C)
+Add component (AddParameter): Name = "Capacitance"; Value = "10nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "1005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "0.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness"; Value = "0.022inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.02inch"; VariantName = "[No Variations]"
+Added Component: Designator=P_GPIO(HDR2X20)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=U1(FG484)
+Add component (AddParameter): Name = "Code_IPC"; Value = "BGA100P22X22-484"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "MS-034-AAJ-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "v1.3, Oct-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "484-Ball Fine Pitch Plastic Ball Grid Array (FG484) - Fully Populated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "FG484"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "ver11.2, Nov-2009"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3V3 Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=+3V3 Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=J2-31
+Added Pin To Net: NetName=NetCOM_Header_14 Pin=J2-47
+Added Pin To Net: NetName=NetCOM_Header_15 Pin=J2-48
+Added Pin To Net: NetName=NetCOM_Header_13 Pin=J2-49
+Added Pin To Net: NetName=NetCOM_Header_16 Pin=J2-50
+Added Pin To Net: NetName=+3.3V Pin=J_ICSP1-2
+Added Pin To Net: NetName=+5Vin Pin=LED1-2
+Added Pin To Net: NetName=GND Pin=U1-A1
+Added Pin To Net: NetName=GND Pin=U1-A2
+Added Pin To Net: NetName=+3.3V Pin=U1-A3
+Added Pin To Net: NetName=NetLED_FPGA_1_2 Pin=U1-A4
+Added Pin To Net: NetName=NetLED_FPGA_2_2 Pin=U1-A5
+Added Pin To Net: NetName=NetCOM_Header_11 Pin=U1-A7
+Added Pin To Net: NetName=NetLED_FPGA_3_2 Pin=U1-A8
+Added Pin To Net: NetName=NetCOM_Header_8 Pin=U1-A10
+Added Pin To Net: NetName=NetCOM_Header_10 Pin=U1-A11
+Added Pin To Net: NetName=NetFLASH1_6 Pin=U1-A12
+Added Pin To Net: NetName=+3.3V Pin=U1-A20
+Added Pin To Net: NetName=GND Pin=U1-A21
+Added Pin To Net: NetName=GND Pin=U1-A22
+Added Pin To Net: NetName=GND Pin=U1-AA1
+Added Pin To Net: NetName=+3.3V Pin=U1-AA2
+Added Pin To Net: NetName=NetFRAM1_C2 Pin=U1-AA16
+Added Pin To Net: NetName=+3.3V Pin=U1-AA21
+Added Pin To Net: NetName=GND Pin=U1-AA22
+Added Pin To Net: NetName=GND Pin=U1-AB1
+Added Pin To Net: NetName=GND Pin=U1-AB2
+Added Pin To Net: NetName=+3.3V Pin=U1-AB3
+Added Pin To Net: NetName=NetFRAM1_H6 Pin=U1-AB6
+Added Pin To Net: NetName=NetFRAM1_H4 Pin=U1-AB7
+Added Pin To Net: NetName=NetFRAM1_G3 Pin=U1-AB8
+Added Pin To Net: NetName=NetFRAM1_F3 Pin=U1-AB9
+Added Pin To Net: NetName=NetFRAM1_E5 Pin=U1-AB12
+Added Pin To Net: NetName=NetFRAM1_E4 Pin=U1-AB13
+Added Pin To Net: NetName=NetFRAM1_C1 Pin=U1-AB16
+Added Pin To Net: NetName=NetFRAM1_B1 Pin=U1-AB17
+Added Pin To Net: NetName=+3.3V Pin=U1-AB20
+Added Pin To Net: NetName=GND Pin=U1-AB21
+Added Pin To Net: NetName=GND Pin=U1-AB22
+Added Pin To Net: NetName=GND Pin=U1-B1
+Added Pin To Net: NetName=+3.3V Pin=U1-B2
+Added Pin To Net: NetName=NetCOM_Header_5 Pin=U1-B7
+Added Pin To Net: NetName=NetCOM_Header_15 Pin=U1-B10
+Added Pin To Net: NetName=+3.3V Pin=U1-B21
+Added Pin To Net: NetName=GND Pin=U1-B22
+Added Pin To Net: NetName=+3.3V Pin=U1-C1
+Added Pin To Net: NetName=GND Pin=U1-C5
+Added Pin To Net: NetName=+1.5V Pin=U1-C8
+Added Pin To Net: NetName=+1.5V Pin=U1-C9
+Added Pin To Net: NetName=+1.5V Pin=U1-C14
+Added Pin To Net: NetName=+1.5V Pin=U1-C15
+Added Pin To Net: NetName=GND Pin=U1-C18
+Added Pin To Net: NetName=NetFRAM1_B4 Pin=U1-C21
+Added Pin To Net: NetName=+3.3V Pin=U1-C22
+Added Pin To Net: NetName=GND Pin=U1-D4
+Added Pin To Net: NetName=NetCOM_Header_3 Pin=U1-D8
+Added Pin To Net: NetName=NetCOM_Header_13 Pin=U1-D9
+Added Pin To Net: NetName=NetCOM_Header_17 Pin=U1-D10
+Added Pin To Net: NetName=GND Pin=U1-D19
+Added Pin To Net: NetName=NetFRAM1_A6 Pin=U1-D22
+Added Pin To Net: NetName=GND Pin=U1-E3
+Added Pin To Net: NetName=GND Pin=U1-E6
+Added Pin To Net: NetName=NetCOM_Header_7 Pin=U1-E8
+Added Pin To Net: NetName=NetCOM_Header_9 Pin=U1-E9
+Added Pin To Net: NetName=NetCOM_Header_6 Pin=U1-E10
+Added Pin To Net: NetName=NetCOM_Header_18 Pin=U1-E11
+Added Pin To Net: NetName=NetPIC1_7 Pin=U1-E12
+Added Pin To Net: NetName=NetFLASH1_7 Pin=U1-E18
+Added Pin To Net: NetName=NetFLASH1_3 Pin=U1-E19
+Added Pin To Net: NetName=GND Pin=U1-E20
+Added Pin To Net: NetName=NetFRAM1_A5 Pin=U1-E22
+Added Pin To Net: NetName=+3.3V Pin=U1-F6
+Added Pin To Net: NetName=VPLL_3000 Pin=U1-F7
+Added Pin To Net: NetName=NetCOM_Header_4 Pin=U1-F10
+Added Pin To Net: NetName=NetCOM_Header_12 Pin=U1-F11
+Added Pin To Net: NetName=NetFLASH1_1 Pin=U1-F12
+Added Pin To Net: NetName=+3.3V Pin=U1-F17
+Added Pin To Net: NetName=NetSRAM1_A1 Pin=U1-F18
+Added Pin To Net: NetName=NetSRAM1_A6 Pin=U1-F19
+Added Pin To Net: NetName=NetFRAM1_A4 Pin=U1-F22
+Added Pin To Net: NetName=GND_3000 Pin=U1-G7
+Added Pin To Net: NetName=GND Pin=U1-G8
+Added Pin To Net: NetName=NetCOM_Header_1 Pin=U1-G9
+Added Pin To Net: NetName=NetCOM_Header_2 Pin=U1-G10
+Added Pin To Net: NetName=NetCOM_Header_16 Pin=U1-G11
+Added Pin To Net: NetName=NetFLASH1_5 Pin=U1-G12
+Added Pin To Net: NetName=GND Pin=U1-G15
+Added Pin To Net: NetName=NetSRAM1_A2 Pin=U1-G17
+Added Pin To Net: NetName=NetSRAM1_A5 Pin=U1-G19
+Added Pin To Net: NetName=NetFRAM1_A3 Pin=U1-G22
+Added Pin To Net: NetName=+1.5V Pin=U1-H3
+Added Pin To Net: NetName=+3.3V Pin=U1-H8
+Added Pin To Net: NetName=+3.3V Pin=U1-H9
+Added Pin To Net: NetName=+3.3V Pin=U1-H10
+Added Pin To Net: NetName=NetCOM_Header_14 Pin=U1-H11
+Added Pin To Net: NetName=NetFLASH1_2 Pin=U1-H12
+Added Pin To Net: NetName=+3.3V Pin=U1-H13
+Added Pin To Net: NetName=+3.3V Pin=U1-H14
+Added Pin To Net: NetName=+3.3V Pin=U1-H15
+Added Pin To Net: NetName=NetSRAM1_A4 Pin=U1-H16
+Added Pin To Net: NetName=NetSRAM1_C2 Pin=U1-H17
+Added Pin To Net: NetName=NetSRAM1_B2 Pin=U1-H18
+Added Pin To Net: NetName=NetSRAM1_B6 Pin=U1-H19
+Added Pin To Net: NetName=+1.5V Pin=U1-H20
+Added Pin To Net: NetName=+3V3 Pin=U1-H21
+Added Pin To Net: NetName=+3.3V Pin=U1-J8
+Added Pin To Net: NetName=GND Pin=U1-J9
+Added Pin To Net: NetName=+1.5V Pin=U1-J10
+Added Pin To Net: NetName=+1.5V Pin=U1-J11
+Added Pin To Net: NetName=+1.5V Pin=U1-J12
+Added Pin To Net: NetName=+1.5V Pin=U1-J13
+Added Pin To Net: NetName=GND Pin=U1-J14
+Added Pin To Net: NetName=+3.3V Pin=U1-J15
+Added Pin To Net: NetName=NetSRAM1_A3 Pin=U1-J16
+Added Pin To Net: NetName=NetSRAM1_B1 Pin=U1-J17
+Added Pin To Net: NetName=NetSRAM1_B4 Pin=U1-J18
+Added Pin To Net: NetName=NetSRAM1_B5 Pin=U1-J19
+Added Pin To Net: NetName=GND Pin=U1-J20
+Added Pin To Net: NetName=NetSRAM1_C4 Pin=U1-J21
+Added Pin To Net: NetName=NetSRAM1_C3 Pin=U1-J22
+Added Pin To Net: NetName=GND Pin=U1-K3
+Added Pin To Net: NetName=+3.3V Pin=U1-K8
+Added Pin To Net: NetName=+1.5V Pin=U1-K9
+Added Pin To Net: NetName=GND Pin=U1-K10
+Added Pin To Net: NetName=GND Pin=U1-K11
+Added Pin To Net: NetName=GND Pin=U1-K12
+Added Pin To Net: NetName=GND Pin=U1-K13
+Added Pin To Net: NetName=+1.5V Pin=U1-K14
+Added Pin To Net: NetName=+3.3V Pin=U1-K15
+Added Pin To Net: NetName=NetSRAM1_C6 Pin=U1-K16
+Added Pin To Net: NetName=NetSRAM1_B3 Pin=U1-K17
+Added Pin To Net: NetName=NetSRAM1_F4 Pin=U1-K18
+Added Pin To Net: NetName=NetSRAM1_F3 Pin=U1-K19
+Added Pin To Net: NetName=NetSRAM1_F5 Pin=U1-K21
+Added Pin To Net: NetName=NetSRAM1_F6 Pin=U1-K22
+Added Pin To Net: NetName=NetJ1_2 Pin=U1-L4
+Added Pin To Net: NetName=NetU1_L5 Pin=U1-L5
+Added Pin To Net: NetName=GND Pin=U1-L7
+Added Pin To Net: NetName=+1.5V Pin=U1-L9
+Added Pin To Net: NetName=GND Pin=U1-L10
+Added Pin To Net: NetName=GND Pin=U1-L11
+Added Pin To Net: NetName=GND Pin=U1-L12
+Added Pin To Net: NetName=GND Pin=U1-L13
+Added Pin To Net: NetName=+1.5V Pin=U1-L14
+Added Pin To Net: NetName=NetSRAM1_C5 Pin=U1-L15
+Added Pin To Net: NetName=NetSRAM1_D3 Pin=U1-L16
+Added Pin To Net: NetName=NetSRAM1_D4 Pin=U1-L17
+Added Pin To Net: NetName=NetSRAM1_C1 Pin=U1-L18
+Added Pin To Net: NetName=NetSRAM1_D2 Pin=U1-L19
+Added Pin To Net: NetName=NetSRAM1_G2 Pin=U1-L20
+Added Pin To Net: NetName=NetSRAM1_G1 Pin=U1-L21
+Added Pin To Net: NetName=NetSRAM1_G3 Pin=U1-L22
+Added Pin To Net: NetName=GND Pin=U1-M1
+Added Pin To Net: NetName=NetJ1_4 Pin=U1-M3
+Added Pin To Net: NetName=VPLL Pin=U1-M6
+Added Pin To Net: NetName=+1.5V Pin=U1-M9
+Added Pin To Net: NetName=GND Pin=U1-M10
+Added Pin To Net: NetName=GND Pin=U1-M11
+Added Pin To Net: NetName=GND Pin=U1-M12
+Added Pin To Net: NetName=GND Pin=U1-M13
+Added Pin To Net: NetName=+1.5V Pin=U1-M14
+Added Pin To Net: NetName=NetSRAM1_E5 Pin=U1-M15
+Added Pin To Net: NetName=NetSRAM1_D5 Pin=U1-M16
+Added Pin To Net: NetName=NetSRAM1_F2 Pin=U1-M17
+Added Pin To Net: NetName=NetSRAM1_H2 Pin=U1-M18
+Added Pin To Net: NetName=NetSRAM1_E3 Pin=U1-M19
+Added Pin To Net: NetName=NetSRAM1_G6 Pin=U1-M20
+Added Pin To Net: NetName=NetSRAM1_G4 Pin=U1-M21
+Added Pin To Net: NetName=NetFRAM1_H5 Pin=U1-N7
+Added Pin To Net: NetName=+3.3V Pin=U1-N8
+Added Pin To Net: NetName=+1.5V Pin=U1-N9
+Added Pin To Net: NetName=GND Pin=U1-N10
+Added Pin To Net: NetName=GND Pin=U1-N11
+Added Pin To Net: NetName=GND Pin=U1-N12
+Added Pin To Net: NetName=GND Pin=U1-N13
+Added Pin To Net: NetName=+1.5V Pin=U1-N14
+Added Pin To Net: NetName=+3.3V Pin=U1-N15
+Added Pin To Net: NetName=NetSRAM1_E4 Pin=U1-N16
+Added Pin To Net: NetName=NetSRAM1_H1 Pin=U1-N17
+Added Pin To Net: NetName=NetSRAM1_F1 Pin=U1-N18
+Added Pin To Net: NetName=NetSRAM1_E2 Pin=U1-N19
+Added Pin To Net: NetName=GND Pin=U1-N20
+Added Pin To Net: NetName=NetSRAM1_G5 Pin=U1-N21
+Added Pin To Net: NetName=+3.3V Pin=U1-P8
+Added Pin To Net: NetName=GND Pin=U1-P9
+Added Pin To Net: NetName=+1.5V Pin=U1-P10
+Added Pin To Net: NetName=+1.5V Pin=U1-P11
+Added Pin To Net: NetName=+1.5V Pin=U1-P12
+Added Pin To Net: NetName=+1.5V Pin=U1-P13
+Added Pin To Net: NetName=GND Pin=U1-P14
+Added Pin To Net: NetName=+3.3V Pin=U1-P15
+Added Pin To Net: NetName=NetSRAM1_H4 Pin=U1-P21
+Added Pin To Net: NetName=+3V3 Pin=U1-P22
+Added Pin To Net: NetName=+1.5V Pin=U1-R3
+Added Pin To Net: NetName=+3.3V Pin=U1-R8
+Added Pin To Net: NetName=+3.3V Pin=U1-R9
+Added Pin To Net: NetName=+3.3V Pin=U1-R10
+Added Pin To Net: NetName=NetFRAM1_F4 Pin=U1-R11
+Added Pin To Net: NetName=NetFRAM1_E2 Pin=U1-R12
+Added Pin To Net: NetName=+3.3V Pin=U1-R13
+Added Pin To Net: NetName=+3.3V Pin=U1-R14
+Added Pin To Net: NetName=+3.3V Pin=U1-R15
+Added Pin To Net: NetName=+1.5V Pin=U1-R20
+Added Pin To Net: NetName=NetSRAM1_H3 Pin=U1-R21
+Added Pin To Net: NetName=NetSRAM1_H6 Pin=U1-R22
+Added Pin To Net: NetName=GND Pin=U1-T8
+Added Pin To Net: NetName=NetFRAM1_H2 Pin=U1-T10
+Added Pin To Net: NetName=NetFRAM1_G1 Pin=U1-T11
+Added Pin To Net: NetName=NetFRAM1_D4 Pin=U1-T12
+Added Pin To Net: NetName=NetFRAM1_C4 Pin=U1-T13
+Added Pin To Net: NetName=NetFRAM1_B6 Pin=U1-T14
+Added Pin To Net: NetName=GND Pin=U1-T15
+Added Pin To Net: NetName=+3.3V_JTAG Pin=U1-T17
+Added Pin To Net: NetName=NetSRAM1_H5 Pin=U1-T22
+Added Pin To Net: NetName=+3.3V Pin=U1-U6
+Added Pin To Net: NetName=NetFRAM1_G6 Pin=U1-U10
+Added Pin To Net: NetName=NetFRAM1_F6 Pin=U1-U11
+Added Pin To Net: NetName=NetFRAM1_D3 Pin=U1-U12
+Added Pin To Net: NetName=NetFRAM1_C5 Pin=U1-U13
+Added Pin To Net: NetName=NetFRAM1_B3 Pin=U1-U14
+Added Pin To Net: NetName=+3.3V Pin=U1-U15
+Added Pin To Net: NetName=NetPIC1_4 Pin=U1-U16
+Added Pin To Net: NetName=+3.3V_VPUMP Pin=U1-U17
+Added Pin To Net: NetName=NetPIC1_2 Pin=U1-U18
+Added Pin To Net: NetName=NetJ1_32 Pin=U1-U20
+Added Pin To Net: NetName=GND Pin=U1-V3
+Added Pin To Net: NetName=NetFRAM1_H3 Pin=U1-V9
+Added Pin To Net: NetName=NetFRAM1_G2 Pin=U1-V10
+Added Pin To Net: NetName=NetFRAM1_F1 Pin=U1-V11
+Added Pin To Net: NetName=NetFRAM1_D5 Pin=U1-V12
+Added Pin To Net: NetName=NetFRAM1_C6 Pin=U1-V13
+Added Pin To Net: NetName=NetFRAM1_B2 Pin=U1-V15
+Added Pin To Net: NetName=NetFRAM1_A2 Pin=U1-V16
+Added Pin To Net: NetName=NetPIC1_6 Pin=U1-V17
+Added Pin To Net: NetName=GND Pin=U1-V18
+Added Pin To Net: NetName=NetPIC1_5 Pin=U1-V19
+Added Pin To Net: NetName=GND Pin=U1-V20
+Added Pin To Net: NetName=NetJ1_20 Pin=U1-W3
+Added Pin To Net: NetName=GND Pin=U1-W4
+Added Pin To Net: NetName=NetFRAM1_H1 Pin=U1-W8
+Added Pin To Net: NetName=NetFRAM1_G4 Pin=U1-W9
+Added Pin To Net: NetName=NetFRAM1_F5 Pin=U1-W10
+Added Pin To Net: NetName=NetFRAM1_F2 Pin=U1-W11
+Added Pin To Net: NetName=NetFRAM1_E3 Pin=U1-W12
+Added Pin To Net: NetName=NetFRAM1_D2 Pin=U1-W13
+Added Pin To Net: NetName=NetFRAM1_C3 Pin=U1-W14
+Added Pin To Net: NetName=NetFRAM1_A1 Pin=U1-W17
+Added Pin To Net: NetName=NetPIC1_3 Pin=U1-W18
+Added Pin To Net: NetName=GND Pin=U1-W19
+Added Pin To Net: NetName=+3.3V Pin=U1-Y1
+Added Pin To Net: NetName=NetJ1_19 Pin=U1-Y4
+Added Pin To Net: NetName=GND Pin=U1-Y5
+Added Pin To Net: NetName=+1.5V Pin=U1-Y8
+Added Pin To Net: NetName=+1.5V Pin=U1-Y9
+Added Pin To Net: NetName=+1.5V Pin=U1-Y14
+Added Pin To Net: NetName=+1.5V Pin=U1-Y15
+Added Pin To Net: NetName=NetCOM_Header_20 Pin=U1-Y17
+Added Pin To Net: NetName=GND Pin=U1-Y18
+Added Pin To Net: NetName=NetCOM_Header_19 Pin=U1-Y19
+Added Pin To Net: NetName=+3.3V Pin=U1-Y22
+Added Pin To Net: NetName=NetJ1_17 Pin=J1-17
+Added Pin To Net: NetName=NetJ1_17 Pin=U1-W22
+Added Net: Name=NetJ1_17
+Added Pin To Net: NetName=NetJ1_18 Pin=J1-18
+Added Pin To Net: NetName=NetJ1_18 Pin=U1-W1
+Added Net: Name=NetJ1_18
+Added Pin To Net: NetName=NetJ1_21 Pin=J1-21
+Added Pin To Net: NetName=NetJ1_21 Pin=U1-A17
+Added Net: Name=NetJ1_21
+Added Pin To Net: NetName=NetJ1_22 Pin=J1-22
+Added Pin To Net: NetName=NetJ1_22 Pin=U1-W20
+Added Net: Name=NetJ1_22
+Added Pin To Net: NetName=NetJ1_23 Pin=J1-23
+Added Pin To Net: NetName=NetJ1_23 Pin=U1-B17
+Added Net: Name=NetJ1_23
+Added Pin To Net: NetName=NetJ1_24 Pin=J1-24
+Added Pin To Net: NetName=NetJ1_24 Pin=U1-W21
+Added Net: Name=NetJ1_24
+Added Pin To Net: NetName=NetJ1_27 Pin=J1-27
+Added Pin To Net: NetName=NetJ1_27 Pin=U1-Y12
+Added Net: Name=NetJ1_27
+Added Pin To Net: NetName=NetJ1_28 Pin=J1-28
+Added Pin To Net: NetName=NetJ1_28 Pin=U1-L6
+Added Net: Name=NetJ1_28
+Added Pin To Net: NetName=NetJ1_30 Pin=J1-30
+Added Pin To Net: NetName=NetJ1_30 Pin=U1-L8
+Added Net: Name=NetJ1_30
+Added Pin To Net: NetName=NetJ1_33 Pin=J1-33
+Added Pin To Net: NetName=NetJ1_33 Pin=U1-Y6
+Added Net: Name=NetJ1_33
+Added Pin To Net: NetName=NetJ1_34 Pin=J1-34
+Added Pin To Net: NetName=NetJ1_34 Pin=U1-U22
+Added Net: Name=NetJ1_34
+Added Pin To Net: NetName=NetJ1_35 Pin=J1-35
+Added Pin To Net: NetName=NetJ1_35 Pin=U1-Y7
+Added Net: Name=NetJ1_35
+Added Pin To Net: NetName=NetJ1_36 Pin=J1-36
+Added Pin To Net: NetName=NetJ1_36 Pin=U1-V1
+Added Net: Name=NetJ1_36
+Added Pin To Net: NetName=NetJ1_37 Pin=J1-37
+Added Pin To Net: NetName=NetJ1_37 Pin=U1-Y10
+Added Net: Name=NetJ1_37
+Added Pin To Net: NetName=NetJ1_38 Pin=J1-38
+Added Pin To Net: NetName=NetJ1_38 Pin=U1-V2
+Added Net: Name=NetJ1_38
+Added Pin To Net: NetName=NetJ1_39 Pin=J1-39
+Added Pin To Net: NetName=NetJ1_39 Pin=U1-Y11
+Added Net: Name=NetJ1_39
+Added Pin To Net: NetName=NetJ1_40 Pin=J1-40
+Added Pin To Net: NetName=NetJ1_40 Pin=U1-V21
+Added Net: Name=NetJ1_40
+Added Pin To Net: NetName=NetJ1_41 Pin=J1-41
+Added Pin To Net: NetName=NetJ1_41 Pin=U1-G14
+Added Net: Name=NetJ1_41
+Added Pin To Net: NetName=NetJ1_43 Pin=J1-43
+Added Pin To Net: NetName=NetJ1_43 Pin=U1-A16
+Added Net: Name=NetJ1_43
+Added Pin To Net: NetName=NetJ2_3 Pin=J2-3
+Added Pin To Net: NetName=NetJ2_3 Pin=U1-N2
+Added Net: Name=NetJ2_3
+Added Pin To Net: NetName=NetJ2_4 Pin=J2-4
+Added Pin To Net: NetName=NetJ2_4 Pin=U1-P5
+Added Net: Name=NetJ2_4
+Added Pin To Net: NetName=NetJ2_5 Pin=J2-5
+Added Pin To Net: NetName=NetJ2_5 Pin=U1-M2
+Added Net: Name=NetJ2_5
+Added Pin To Net: NetName=NetJ2_6 Pin=J2-6
+Added Pin To Net: NetName=NetJ2_6 Pin=U1-N6
+Added Net: Name=NetJ2_6
+Added Pin To Net: NetName=NetJ2_7 Pin=J2-7
+Added Pin To Net: NetName=NetJ2_7 Pin=U1-L2
+Added Net: Name=NetJ2_7
+Added Pin To Net: NetName=NetJ2_8 Pin=J2-8
+Added Pin To Net: NetName=NetJ2_8 Pin=U1-K2
+Added Net: Name=NetJ2_8
+Added Pin To Net: NetName=NetJ2_12 Pin=J2-12
+Added Pin To Net: NetName=NetJ2_12 Pin=U1-K1
+Added Net: Name=NetJ2_12
+Added Pin To Net: NetName=NetJ2_14 Pin=J2-14
+Added Pin To Net: NetName=NetJ2_14 Pin=U1-P4
+Added Net: Name=NetJ2_14
+Added Pin To Net: NetName=NetJ2_21 Pin=J2-21
+Added Pin To Net: NetName=NetJ2_21 Pin=U1-N4
+Added Net: Name=NetJ2_21
+Added Pin To Net: NetName=NetJ2_22 Pin=J2-22
+Added Pin To Net: NetName=NetJ2_22 Pin=U1-M7
+Added Net: Name=NetJ2_22
+Added Pin To Net: NetName=NetP_GPIO_1 Pin=P_GPIO-1
+Added Pin To Net: NetName=NetP_GPIO_1 Pin=U1-V5
+Added Net: Name=NetP_GPIO_1
+Added Pin To Net: NetName=NetP_GPIO_2 Pin=P_GPIO-2
+Added Pin To Net: NetName=NetP_GPIO_2 Pin=U1-K4
+Added Net: Name=NetP_GPIO_2
+Added Pin To Net: NetName=NetP_GPIO_3 Pin=P_GPIO-3
+Added Pin To Net: NetName=NetP_GPIO_3 Pin=U1-V4
+Added Net: Name=NetP_GPIO_3
+Added Pin To Net: NetName=NetP_GPIO_4 Pin=P_GPIO-4
+Added Pin To Net: NetName=NetP_GPIO_4 Pin=U1-K5
+Added Net: Name=NetP_GPIO_4
+Added Pin To Net: NetName=NetP_GPIO_5 Pin=P_GPIO-5
+Added Pin To Net: NetName=NetP_GPIO_5 Pin=U1-U5
+Added Net: Name=NetP_GPIO_5
+Added Pin To Net: NetName=NetP_GPIO_6 Pin=P_GPIO-6
+Added Pin To Net: NetName=NetP_GPIO_6 Pin=U1-J4
+Added Net: Name=NetP_GPIO_6
+Added Pin To Net: NetName=NetP_GPIO_7 Pin=P_GPIO-7
+Added Pin To Net: NetName=NetP_GPIO_7 Pin=U1-U4
+Added Net: Name=NetP_GPIO_7
+Added Pin To Net: NetName=NetP_GPIO_8 Pin=P_GPIO-8
+Added Pin To Net: NetName=NetP_GPIO_8 Pin=U1-H4
+Added Net: Name=NetP_GPIO_8
+Added Pin To Net: NetName=NetP_GPIO_9 Pin=P_GPIO-9
+Added Pin To Net: NetName=NetP_GPIO_9 Pin=U1-R7
+Added Net: Name=NetP_GPIO_9
+Added Pin To Net: NetName=NetP_GPIO_10 Pin=P_GPIO-10
+Added Pin To Net: NetName=NetP_GPIO_10 Pin=U1-H5
+Added Net: Name=NetP_GPIO_10
+Added Pin To Net: NetName=NetP_GPIO_11 Pin=P_GPIO-11
+Added Pin To Net: NetName=NetP_GPIO_11 Pin=U1-T6
+Added Net: Name=NetP_GPIO_11
+Added Pin To Net: NetName=NetP_GPIO_12 Pin=P_GPIO-12
+Added Pin To Net: NetName=NetP_GPIO_12 Pin=U1-J6
+Added Net: Name=NetP_GPIO_12
+Added Pin To Net: NetName=NetP_GPIO_13 Pin=P_GPIO-13
+Added Pin To Net: NetName=NetP_GPIO_13 Pin=U1-R6
+Added Net: Name=NetP_GPIO_13
+Added Pin To Net: NetName=NetP_GPIO_14 Pin=P_GPIO-14
+Added Pin To Net: NetName=NetP_GPIO_14 Pin=U1-J5
+Added Net: Name=NetP_GPIO_14
+Added Pin To Net: NetName=NetP_GPIO_15 Pin=P_GPIO-15
+Added Pin To Net: NetName=NetP_GPIO_15 Pin=U1-T5
+Added Net: Name=NetP_GPIO_15
+Added Pin To Net: NetName=NetP_GPIO_16 Pin=P_GPIO-16
+Added Pin To Net: NetName=NetP_GPIO_16 Pin=U1-K6
+Added Net: Name=NetP_GPIO_16
+Added Pin To Net: NetName=NetP_GPIO_17 Pin=P_GPIO-17
+Added Pin To Net: NetName=NetP_GPIO_17 Pin=U1-Y2
+Added Net: Name=NetP_GPIO_17
+Added Pin To Net: NetName=NetP_GPIO_18 Pin=P_GPIO-18
+Added Pin To Net: NetName=NetP_GPIO_18 Pin=U1-H7
+Added Net: Name=NetP_GPIO_18
+Added Pin To Net: NetName=NetP_GPIO_19 Pin=P_GPIO-19
+Added Pin To Net: NetName=NetP_GPIO_19 Pin=U1-W2
+Added Net: Name=NetP_GPIO_19
+Added Pin To Net: NetName=NetP_GPIO_20 Pin=P_GPIO-20
+Added Pin To Net: NetName=NetP_GPIO_20 Pin=U1-J7
+Added Net: Name=NetP_GPIO_20
+Added Pin To Net: NetName=NetP_GPIO_21 Pin=P_GPIO-21
+Added Pin To Net: NetName=NetP_GPIO_21 Pin=U1-U2
+Added Net: Name=NetP_GPIO_21
+Added Pin To Net: NetName=NetP_GPIO_22 Pin=P_GPIO-22
+Added Pin To Net: NetName=NetP_GPIO_22 Pin=U1-G1
+Added Net: Name=NetP_GPIO_22
+Added Pin To Net: NetName=NetP_GPIO_23 Pin=P_GPIO-23
+Added Pin To Net: NetName=NetP_GPIO_23 Pin=U1-U1
+Added Net: Name=NetP_GPIO_23
+Added Pin To Net: NetName=NetP_GPIO_24 Pin=P_GPIO-24
+Added Pin To Net: NetName=NetP_GPIO_24 Pin=U1-G2
+Added Net: Name=NetP_GPIO_24
+Added Pin To Net: NetName=NetP_GPIO_25 Pin=P_GPIO-25
+Added Pin To Net: NetName=NetP_GPIO_25 Pin=U1-T4
+Added Net: Name=NetP_GPIO_25
+Added Pin To Net: NetName=NetP_GPIO_26 Pin=P_GPIO-26
+Added Pin To Net: NetName=NetP_GPIO_26 Pin=U1-G4
+Added Net: Name=NetP_GPIO_26
+Added Pin To Net: NetName=NetP_GPIO_27 Pin=P_GPIO-27
+Added Pin To Net: NetName=NetP_GPIO_27 Pin=U1-R4
+Added Net: Name=NetP_GPIO_27
+Added Pin To Net: NetName=NetP_GPIO_28 Pin=P_GPIO-28
+Added Pin To Net: NetName=NetP_GPIO_28 Pin=U1-G5
+Added Net: Name=NetP_GPIO_28
+Added Pin To Net: NetName=NetP_GPIO_29 Pin=P_GPIO-29
+Added Pin To Net: NetName=NetP_GPIO_29 Pin=U1-R5
+Added Net: Name=NetP_GPIO_29
+Added Pin To Net: NetName=NetP_GPIO_30 Pin=P_GPIO-30
+Added Pin To Net: NetName=NetP_GPIO_30 Pin=U1-H6
+Added Net: Name=NetP_GPIO_30
+Added Pin To Net: NetName=NetP_GPIO_31 Pin=P_GPIO-31
+Added Pin To Net: NetName=NetP_GPIO_31 Pin=U1-P6
+Added Net: Name=NetP_GPIO_31
+Added Pin To Net: NetName=NetP_GPIO_32 Pin=P_GPIO-32
+Added Pin To Net: NetName=NetP_GPIO_32 Pin=U1-G6
+Added Net: Name=NetP_GPIO_32
+Added Pin To Net: NetName=NetP_GPIO_33 Pin=P_GPIO-33
+Added Pin To Net: NetName=NetP_GPIO_33 Pin=U1-T2
+Added Net: Name=NetP_GPIO_33
+Added Pin To Net: NetName=NetP_GPIO_34 Pin=P_GPIO-34
+Added Pin To Net: NetName=NetP_GPIO_34 Pin=U1-F4
+Added Net: Name=NetP_GPIO_34
+Added Pin To Net: NetName=NetP_GPIO_35 Pin=P_GPIO-35
+Added Pin To Net: NetName=NetP_GPIO_35 Pin=U1-T1
+Added Net: Name=NetP_GPIO_35
+Added Pin To Net: NetName=NetP_GPIO_36 Pin=P_GPIO-36
+Added Pin To Net: NetName=NetP_GPIO_36 Pin=U1-E4
+Added Net: Name=NetP_GPIO_36
+Added Pin To Net: NetName=NetP_GPIO_37 Pin=P_GPIO-37
+Added Pin To Net: NetName=NetP_GPIO_37 Pin=U1-P3
+Added Net: Name=NetP_GPIO_37
+Added Pin To Net: NetName=NetP_GPIO_38 Pin=P_GPIO-38
+Added Pin To Net: NetName=NetP_GPIO_38 Pin=U1-F5
+Added Net: Name=NetP_GPIO_38
+Added Pin To Net: NetName=NetP_GPIO_39 Pin=P_GPIO-39
+Added Pin To Net: NetName=NetP_GPIO_39 Pin=U1-P2
+Added Net: Name=NetP_GPIO_39
+Added Pin To Net: NetName=NetP_GPIO_40 Pin=P_GPIO-40
+Added Pin To Net: NetName=NetP_GPIO_40 Pin=U1-E5
+Added Net: Name=NetP_GPIO_40
+Added Pin To Net: NetName=NetR10_1 Pin=R10-1
+Added Net: Name=NetR10_1
+Added Pin To Net: NetName=NetR11_1 Pin=R11-1
+Added Net: Name=NetR11_1
+Change Class Name : Old Net Name=Core New Net Name=Memory
+Added Member To Class: ClassName=FPGABanks Member=Component C? 10nF
+Added Member To Class: ClassName=FPGABanks Member=Component C? 100nF
+Added Member To Class: ClassName=GPIO_Headers Member=Component P_GPIO Header 20X2
+Added Room: Name=FPGABanks
+Added Room: Name=FPGAMisc
+Added Room: Name=FPGAPower
+Added Room: Name=GPIO_Headers
+Added Room: Name=Interface
+Added Room: Name=Memory
+Added Room: Name=Power
