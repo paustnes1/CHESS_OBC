@@ -1,0 +1,5 @@
+Removed Member From Class: ClassName=FPGAPower Member=C11
+Removed Member From Class: ClassName=Power Member=L2
+Change Component Designator: OldDesignator=L2 NewDesignator=L3
+Change Net Name : Old Net Name=NetL2_1 New Net Name=NetL3_1
+Added Member To Class: ClassName=Power Member=Component L3 LQM21PN2R2NGCD

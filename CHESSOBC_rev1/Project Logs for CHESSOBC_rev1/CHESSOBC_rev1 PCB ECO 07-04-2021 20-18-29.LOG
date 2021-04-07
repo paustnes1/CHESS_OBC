@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=NetCOM_Header_5 Pin=R4-1
+Removed Pin From Net: NetName=NetCOM_Header_6 Pin=R5-1
+Removed Pin From Net: NetName=+3.3V Pin=R5-2
+Removed Member From Class: ClassName=FPGAPower Member=L3
+Removed Member From Class: ClassName=Interface Member=R5
+Added Pin To Net: NetName=NetPIC1_7 Pin=R3-1
+Added Pin To Net: NetName=NetFLASH1_1 Pin=R4-1
+Added Pin To Net: NetName=NetCOM_Header_19 Pin=R10-1
+Added Pin To Net: NetName=NetCOM_Header_20 Pin=R11-1
+Added Member To Class: ClassName=FPGAPower Member=Component L2 445-6761-2-ND 6.8uH

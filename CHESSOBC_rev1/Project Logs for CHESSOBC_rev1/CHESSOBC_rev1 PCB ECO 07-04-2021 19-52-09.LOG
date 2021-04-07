@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=NetJ3_7 Pin=PIC1-11
+Removed Pin From Net: NetName=NetJ3_8 Pin=PIC1-12
+Removed Pin From Net: NetName=NetJ3_9 Pin=PIC1-16
+Removed Pin From Net: NetName=NetJ3_10 Pin=PIC1-17
+Removed Pin From Net: NetName=NetJ3_3 Pin=PIC1-21
+Removed Pin From Net: NetName=NetJ3_4 Pin=PIC1-22
+Removed Pin From Net: NetName=NetJ3_5 Pin=PIC1-23
+Removed Pin From Net: NetName=NetJ3_6 Pin=PIC1-26
+Removed Member From Class: ClassName=Interface Member=J4
+Change Component Designator: OldDesignator=C? NewDesignator=C60
+Change Component Designator: OldDesignator=C? NewDesignator=C61
+Added Pin To Net: NetName=NetJ3_6 Pin=PIC1-11
+Added Pin To Net: NetName=NetJ3_7 Pin=PIC1-12
+Added Pin To Net: NetName=NetJ3_8 Pin=PIC1-16
+Added Pin To Net: NetName=NetJ3_9 Pin=PIC1-17
+Added Pin To Net: NetName=NetJ3_10 Pin=PIC1-18
+Added Pin To Net: NetName=NetC58_2 Pin=PIC1-21
+Added Pin To Net: NetName=NetJ3_3 Pin=PIC1-22
+Added Pin To Net: NetName=NetJ3_4 Pin=PIC1-23
+Added Pin To Net: NetName=NetJ3_5 Pin=PIC1-26
+Added Member To Class: ClassName=FPGABanks Member=Component C61 10nF
