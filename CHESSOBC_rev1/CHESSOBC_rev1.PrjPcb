@@ -24,6 +24,7 @@ ReorderDocumentsOnCompile=1
 NameNetsHierarchically=0
 PowerPortNamesTakePriority=0
 AutoSheetNumbering=0
+AutoCrossReferences=0
 PushECOToAnnotationFile=1
 DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
@@ -227,114 +228,118 @@ GenerateClassCluster=0
 DocumentUniqueId=EKEZROLC
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1.EXTREP
+DocumentPath=Project Outputs for CHESSOBC_rev1\BGA Escape Route - CHESSOBC_rev1.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1.GBL
+DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1.GBO
+DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1.GBP
+DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1.GBS
+DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1.GKO
+DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1.GM1
+DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1.GM2
+DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1.GM3
+DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1.GM2
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1.GM4
+DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1.GM3
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1.GM5
+DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1.GM4
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1.GM6
+DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1.GM5
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1.GM13
+DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1.GM6
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1.GM15
+DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1.GM13
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1.GM16
+DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1.GM15
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1.GM19
+DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1.GM16
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1.GM20
+DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1.GM19
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1.GM21
+DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1.GM20
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1.GM23
+DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1.GM21
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1.GM24
+DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1.GM23
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1.GPB
+DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1.GM24
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1.GPT
+DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1.GPB
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1.GTL
+DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1.GPT
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1.GTO
+DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1.GTP
+DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument26]
-DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1.GTS
+DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument27]
-DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1.REP
+DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument28]
+DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1.REP
+DItemRevisionGUID=
+
+[GeneratedDocument29]
 DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1.RUL
 DItemRevisionGUID=
 
@@ -504,7 +509,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=\\printEPFL1\SecurePrint-BW
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
