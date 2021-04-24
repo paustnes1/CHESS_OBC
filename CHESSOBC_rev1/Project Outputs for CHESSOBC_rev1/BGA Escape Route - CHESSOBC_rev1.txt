@@ -1,8 +1,8 @@
 BGA Escape Route
-Filename     : C:\Users\pal\Documents\GitHub\CHESS_OBC\CHESSOBC_rev1\CHESSOBC_rev1.PcbDoc
-Date         : 15/04/2021
-Time         : 14:26:25
-Time Elapsed : 00:00:02
+Filename     : C:\Users\eliow\OneDrive\Dokumente\GitHub\CHESS_OBC\CHESSOBC_rev1\CHESSOBC_rev1.PcbDoc
+Date         : 24/04/2021
+Time         : 22:23:23
+Time Elapsed : 00:00:00
 
 U1
     Pad U1-B22(45.57mm,85.406mm) on Top Layer on Net GND
