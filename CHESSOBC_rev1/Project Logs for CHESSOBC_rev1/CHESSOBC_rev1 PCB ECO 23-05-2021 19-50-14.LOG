@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=GND_3000 Pin=U1-G16
+Added Pin To Net: NetName=GND Pin=U1-G16
+Added Room: Name=FPGABanks
+Added Room: Name=FPGAMisc
+Added Room: Name=FPGAPower
+Added Room: Name=GPIO_Headers
+Added Room: Name=Interface
+Added Room: Name=Memory
+Added Room: Name=Power
