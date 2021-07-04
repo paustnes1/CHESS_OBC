@@ -1,0 +1,619 @@
+PARTS LIST
+
+100nF             CAPC1005X60X30ML05T10C1
+100nF             CAPC1005X60X30ML05T10C2
+CC0402KRX5R6BB334 FP-CC0402-MFG   C3
+100nF             CAPC1005X60X30ML05T10C4
+100nF             CAPC1005X60X30ML05T10C5
+10nF              CAPC0402(1005)60_MC6
+100nF             CAPC1005X60X30ML05T10C7
+10uF              CAPC2013X145X20ML20C8
+100nF             CAPC1005X60X30ML05T10C9
+100nF             CAPC1005X60X30ML05T10C10
+100nF             CAPC1005X60X30ML05T10C12
+100nF             CAPC1005X60X30ML05T10C13
+100nF             CAPC1005X60X30ML05T10C14
+100nF             CAPC1005X60X30ML05T10C15
+10nF              FP-GRM155-0_05-IPC_CC16
+100nF             FP-GRM155-0_05-IPC_CC17
+10nF              FP-GRM155-0_05-IPC_CC18
+100nF             FP-GRM155-0_05-IPC_CC19
+10nF              FP-GRM155-0_05-IPC_CC20
+100nF             FP-GRM155-0_05-IPC_CC21
+10nF              FP-GRM155-0_05-IPC_CC22
+100nF             FP-GRM155-0_05-IPC_CC23
+10nF              FP-GRM155-0_05-IPC_CC24
+100nF             FP-GRM155-0_05-IPC_CC25
+10nF              FP-GRM155-0_05-IPC_CC26
+100nF             FP-GRM155-0_05-IPC_CC27
+10nF              FP-GRM155-0_05-IPC_CC28
+10nF              FP-GRM155-0_05-IPC_CC29
+10nF              FP-GRM155-0_05-IPC_CC30
+100nF             FP-GRM155-0_05-IPC_CC31
+10nF              FP-GRM155-0_05-IPC_CC32
+100nF             FP-GRM155-0_05-IPC_CC33
+10nF              FP-GRM155-0_05-IPC_CC34
+100nF             FP-GRM155-0_05-IPC_CC35
+10nF              FP-GRM155-0_05-IPC_CC36
+100nF             FP-GRM155-0_05-IPC_CC37
+10nF              FP-GRM155-0_05-IPC_CC38
+100nF             FP-GRM155-0_05-IPC_CC39
+10nF              FP-GRM155-0_05-IPC_CC40
+100nF             FP-GRM155-0_05-IPC_CC41
+10nF              FP-GRM155-0_05-IPC_CC42
+10nF              FP-GRM155-0_05-IPC_CC43
+10nF              FP-GRM155-0_05-IPC_CC44
+100nF             FP-GRM155-0_05-IPC_CC45
+10nF              FP-GRM155-0_05-IPC_CC46
+100nF             FP-GRM155-0_05-IPC_CC47
+1uF               CAPC1608X90X20LL10C48
+10nF              FP-GRM155-0_05-IPC_CC49
+100nF             FP-GRM155-0_05-IPC_CC50
+10nF              FP-GRM155-0_05-IPC_CC51
+100nF             FP-GRM155-0_05-IPC_CC52
+1uF               CAPC1608X90X20LL10C53
+100nF             FP-GRM155-0_05-IPC_CC54
+10nF              FP-GRM155-0_05-IPC_CC55
+100nF             FP-GRM155-0_05-IPC_CC56
+10nF              FP-GRM155-0_05-IPC_CC57
+Capacitor 22µF +/-40% 16V 0805CAPC0805(2012)145_LC58
+100nF             FP-GRM155-0_05-IPC_CC59
+100nF             FP-GRM155-0_05-IPC_CC60
+10nF              FP-GRM155-0_05-IPC_CC61
+10nF              FP-GRM155-0_05-IPC_CC62
+100nF             FP-GRM155-0_05-IPC_CC63
+10nF              FP-GRM155-0_05-IPC_CC64
+100nF             FP-GRM155-0_05-IPC_CC65
+10nF              FP-GRM155-0_05-IPC_CC66
+1uF               CAPC1608X90X20LL10C67
+10nF              FP-GRM155-0_05-IPC_CC68
+100nF             FP-GRM155-0_05-IPC_CC69
+10nF              FP-GRM155-0_05-IPC_CC70
+100nF             FP-GRM155-0_05-IPC_CC71
+10nF              FP-GRM155-0_05-IPC_CC73
+100nF             FP-GRM155-0_05-IPC_CC74
+10nF              FP-GRM155-0_05-IPC_CC75
+100nF             FP-GRM155-0_05-IPC_CC76
+1uF               CAPC1608X90X20LL10C77
+10nF              FP-GRM155-0_05-IPC_CC78
+10nF              FP-GRM155-0_05-IPC_CC79
+100nF             FP-GRM155-0_05-IPC_CC80
+10nF              FP-GRM155-0_05-IPC_CC81
+100nF             FP-GRM155-0_05-IPC_CC82
+10nF              FP-GRM155-0_05-IPC_CC83
+10nF              FP-GRM155-0_05-IPC_CC86
+100nF             FP-GRM155-0_05-IPC_CC87
+10nF              FP-GRM155-0_05-IPC_CC88
+100nF             FP-GRM155-0_05-IPC_CC89
+CAP 4.7uF 25V 1210(3225)CAPC1210(3225)220_MC100
+C0805C106K8PACTU  FP-C0805C-DG-MFGC101
+Header 10X2       HDR2X10         COM_Header
+T3V3S5            ONSC-SOD-523-2-502-01_VD1
+T3V3S5            ONSC-SOD-523-2-502-01_VD2
+MT29F2G01ABAGDWB-IT:G TRFP-WB-IPC_C     FLASH1
+FM22LD16-55-BG    BGA48C75P6X8_600X800X120FRAM1
+ESQ-126-23-T-D    SMTC-ESQ-126-23-X-DJ1
+ESQ-126-23-T-D    SMTC-ESQ-126-23-X-DJ2
+61301011121       61301011121     J3
+                  HDR1X5          J_ICSP1
+445-6761-2-ND 6.8uHSMD-0805        L2
+LQM21PN2R2NGCD    FP-LQM21PH_G0-IPC_CL3
+RPG1102W-660-TR   LEDC3015X190N   LED1
+RPG1102W-660-TR   LEDC3015X190N   LED2
+SMLD12BN1WT86     LEDM168X65N     LED_FPGA_1
+SMLD12BN1WT86     LEDM168X65N     LED_FPGA_2
+SMLD12BN1WT86     LEDM168X65N     LED_FPGA_3
+Header 20X2       HDR2X20         P_GPIO
+PIC18F2520-I/SO   SOIC-SO28_L     PIC1
+10k               RESC1005X40X25LL05T10R1
+220R              RESC1005X40X25ML05T10R2
+10k               RESC1005X40X25LL05T10R3
+10k               RESC1005X40X25LL05T10R4
+NC                RESC1005X40X25LL05T10R6
+10k               RESC1005X40X25LL05T10R7
+4k7               RESC1005X40X25LL05T10R8
+10k               RESC1005X40X25LL05T10R9
+10k               RESC1005X40X25LL05T10R10
+10k               RESC1005X40X25LL05T10R11
+0R                RESC1005X40X25LL05T10R12
+0R                RESC1005X40X25LL05T10R13
+CRCW06030000Z0EA  RESC1609X50X30NL8T20R14
+CRCW06030000Z0EA  RESC1609X50X30NL8T20R15
+CRCW06030000Z0EA  RESC1609X50X30NL8T20R16
+CRCW06030000Z0EA  RESC1609X50X30NL8T20R17
+RC1206JR-07180RL  RESC3116X65N    R100
+RN73H2ATTD75R0B25 RESC2012X60N    R101
+RCS060382R0FKEA   RESC1608X50N    R_LED3_80Ohm
+RCS060382R0FKEA   RESC1608X50N    R_LED4_80Ohm
+RCS060382R0FKEA   RESC1608X50N    R_LED5_80Ohm
+CY62167GE30-45BV1XIBGA48C75P6X8_600X800X100SRAM1
+PTH-M2D5X5        PTH-M2D5X5      ST1
+PTH-M2D5X5        PTH-M2D5X5      ST2
+PTH-M2D5X5        PTH-M2D5X5      ST3
+PTH-M2D5X5        PTH-M2D5X5      ST4
+5015              FP-5015-MFG     T1
+5015              FP-5015-MFG     T2
+5015              FP-5015-MFG     T3
+5015              FP-5015-MFG     T4
+5015              FP-5015-MFG     T5
+5015              FP-5015-MFG     T6
+5015              FP-5015-MFG     T7
+M1A3P600-FG484    FG484           U1
+LT6105IMS8#PBF    LT-MS8-8_N      U2
+LM3671MF-3.3/NOPB DBV0005A_N      U5
+77311-462K05LF    FCI-77311-5_V   X1
+ECS-2033-320-AU   OSC_ECS-2033-320-AUX2
+EOS
+NET LIST
+
+NODENAME VPLL-3000        $
+    R12        2  U1        F7  U1       F16  U1       M18  U1       R16  U1        U7
+NODENAME VPLL             $
+    C6         2  C7         2  C8         2  L2         1  R12        1  U1        M6
+NODENAME NetU1_L5         $
+    U1        L5  X2         3
+NODENAME NetSRAM1_H6      $
+    SRAM1     H6  U1       T21
+NODENAME NetSRAM1_H5      $
+    SRAM1     H5  U1       U21
+NODENAME NetSRAM1_H4      $
+    SRAM1     H4  U1       R22
+NODENAME NetSRAM1_H3      $
+    SRAM1     H3  U1       T22
+NODENAME NetSRAM1_H2      $
+    SRAM1     H2  U1       P21
+NODENAME NetSRAM1_H1      $
+    SRAM1     H1  U1       R21
+NODENAME NetSRAM1_G6      $
+    SRAM1     G6  U1       N17
+NODENAME NetSRAM1_G5      $
+    SRAM1     G5  U1       M20
+NODENAME NetSRAM1_G4      $
+    SRAM1     G4  U1       N21
+NODENAME NetSRAM1_G3      $
+    SRAM1     G3  U1       M21
+NODENAME NetSRAM1_G2      $
+    SRAM1     G2  U1       L22
+NODENAME NetSRAM1_G1      $
+    SRAM1     G1  U1       L20
+NODENAME NetSRAM1_F6      $
+    SRAM1     F6  U1       L21
+NODENAME NetSRAM1_F5      $
+    SRAM1     F5  U1       K22
+NODENAME NetSRAM1_F4      $
+    SRAM1     F4  U1       K21
+NODENAME NetSRAM1_F3      $
+    SRAM1     F3  U1       K18
+NODENAME NetSRAM1_F2      $
+    SRAM1     F2  U1       K19
+NODENAME NetSRAM1_F1      $
+    SRAM1     F1  U1       M17
+NODENAME NetSRAM1_E5      $
+    SRAM1     E5  U1       N18
+NODENAME NetSRAM1_E4      $
+    SRAM1     E4  U1       M15
+NODENAME NetSRAM1_E3      $
+    SRAM1     E3  U1       N16
+NODENAME NetSRAM1_E2      $
+    SRAM1     E2  U1       M19
+NODENAME NetSRAM1_D5      $
+    SRAM1     D5  U1       N19
+NODENAME NetSRAM1_D4      $
+    SRAM1     D4  U1       M16
+NODENAME NetSRAM1_D3      $
+    SRAM1     D3  U1       L17
+NODENAME NetSRAM1_D2      $
+    SRAM1     D2  U1       L16
+NODENAME NetSRAM1_C6      $
+    SRAM1     C6  U1       L19
+NODENAME NetSRAM1_C5      $
+    SRAM1     C5  U1       K16
+NODENAME NetSRAM1_C4      $
+    SRAM1     C4  U1       L15
+NODENAME NetSRAM1_C3      $
+    SRAM1     C3  U1       J21
+NODENAME NetSRAM1_C2      $
+    SRAM1     C2  U1       J22
+NODENAME NetSRAM1_C1      $
+    SRAM1     C1  U1       H17
+NODENAME NetSRAM1_B6      $
+    SRAM1     B6  U1       H19
+NODENAME NetSRAM1_B5      $
+    SRAM1     B5  U1       J19
+NODENAME NetSRAM1_B4      $
+    SRAM1     B4  U1       J18
+NODENAME NetSRAM1_B3      $
+    SRAM1     B3  U1       K17
+NODENAME NetSRAM1_B2      $
+    SRAM1     B2  U1       H18
+NODENAME NetSRAM1_B1      $
+    SRAM1     B1  U1       J17
+NODENAME NetSRAM1_A6      $
+    SRAM1     A6  U1       F19
+NODENAME NetSRAM1_A5      $
+    SRAM1     A5  U1       G19
+NODENAME NetSRAM1_A4      $
+    SRAM1     A4  U1       H16
+NODENAME NetSRAM1_A3      $
+    SRAM1     A3  U1       J16
+NODENAME NetSRAM1_A2      $
+    SRAM1     A2  U1       G17
+NODENAME NetSRAM1_A1      $
+    SRAM1     A1  U1       F18
+NODENAME NetR16-2         $
+    R16        2  U2         1
+NODENAME NetR15-2         $
+    R15        2  U2         8
+NODENAME NetR14-2         $
+    R14        2  R16        1  U5         1  U5         3
+NODENAME NetPIC1-7        $
+    PIC1       7  R3         1  U1       E12
+NODENAME NetPIC1-6        $
+    PIC1       6  R6         1  R8         2  U1       V17  X1         5
+NODENAME NetPIC1-5        $
+    PIC1       5  U1       V19  X1         4
+NODENAME NetPIC1-4        $
+    PIC1       4  R7         2  U1       U16  X1         3
+NODENAME NetPIC1-3        $
+    PIC1       3  U1       W18  X1         2
+NODENAME NetPIC1-2        $
+    PIC1       2  U1       U18  X1         1
+NODENAME NetP_GPIO-40     $
+    P_GPIO    40  U1        E5
+NODENAME NetP_GPIO-39     $
+    P_GPIO    39  U1        P2
+NODENAME NetP_GPIO-38     $
+    P_GPIO    38  U1        F5
+NODENAME NetP_GPIO-37     $
+    P_GPIO    37  U1        P3
+NODENAME NetP_GPIO-36     $
+    P_GPIO    36  U1        E4
+NODENAME NetP_GPIO-35     $
+    P_GPIO    35  U1        T1
+NODENAME NetP_GPIO-34     $
+    P_GPIO    34  U1        F4
+NODENAME NetP_GPIO-33     $
+    P_GPIO    33  U1        T2
+NODENAME NetP_GPIO-32     $
+    P_GPIO    32  U1        G6
+NODENAME NetP_GPIO-31     $
+    P_GPIO    31  U1        P6
+NODENAME NetP_GPIO-30     $
+    P_GPIO    30  U1        H6
+NODENAME NetP_GPIO-29     $
+    P_GPIO    29  U1        R5
+NODENAME NetP_GPIO-28     $
+    P_GPIO    28  U1        G5
+NODENAME NetP_GPIO-27     $
+    P_GPIO    27  U1        R4
+NODENAME NetP_GPIO-26     $
+    P_GPIO    26  U1        G4
+NODENAME NetP_GPIO-25     $
+    P_GPIO    25  U1        T4
+NODENAME NetP_GPIO-24     $
+    P_GPIO    24  U1        G2
+NODENAME NetP_GPIO-23     $
+    P_GPIO    23  U1        U1
+NODENAME NetP_GPIO-22     $
+    P_GPIO    22  U1        G1
+NODENAME NetP_GPIO-21     $
+    P_GPIO    21  U1        U2
+NODENAME NetP_GPIO-20     $
+    P_GPIO    20  U1        J7
+NODENAME NetP_GPIO-19     $
+    P_GPIO    19  U1        W2
+NODENAME NetP_GPIO-18     $
+    P_GPIO    18  U1        H7
+NODENAME NetP_GPIO-17     $
+    P_GPIO    17  U1        Y2
+NODENAME NetP_GPIO-16     $
+    P_GPIO    16  U1        K6
+NODENAME NetP_GPIO-15     $
+    P_GPIO    15  U1        T5
+NODENAME NetP_GPIO-14     $
+    P_GPIO    14  U1        J5
+NODENAME NetP_GPIO-13     $
+    P_GPIO    13  U1        R6
+NODENAME NetP_GPIO-12     $
+    P_GPIO    12  U1        J6
+NODENAME NetP_GPIO-11     $
+    P_GPIO    11  U1        T6
+NODENAME NetP_GPIO-10     $
+    P_GPIO    10  U1        H5
+NODENAME NetP_GPIO-9      $
+    P_GPIO     9  U1        R7
+NODENAME NetP_GPIO-8      $
+    P_GPIO     8  U1        H4
+NODENAME NetP_GPIO-7      $
+    P_GPIO     7  U1        U4
+NODENAME NetP_GPIO-6      $
+    P_GPIO     6  U1        J4
+NODENAME NetP_GPIO-5      $
+    P_GPIO     5  U1        U5
+NODENAME NetP_GPIO-4      $
+    P_GPIO     4  U1        K5
+NODENAME NetP_GPIO-3      $
+    P_GPIO     3  U1        V4
+NODENAME NetP_GPIO-2      $
+    P_GPIO     2  U1        K4
+NODENAME NetP_GPIO-1      $
+    P_GPIO     1  U1        V5
+NODENAME NetLED_FPGA_3-2  $
+    LED_FPGA_3 2  U1        A8
+NODENAME NetLED_FPGA_3-1  $
+    LED_FPGA_3 1  R_LED5_80Ohm1
+NODENAME NetLED_FPGA_2-2  $
+    LED_FPGA_2 2  U1        A5
+NODENAME NetLED_FPGA_2-1  $
+    LED_FPGA_2 1  R_LED4_80Ohm1
+NODENAME NetLED_FPGA_1-2  $
+    LED_FPGA_1 2  U1        A4
+NODENAME NetLED_FPGA_1-1  $
+    LED_FPGA_1 1  R_LED3_80Ohm1
+NODENAME NetLED2-1        $
+    LED2       1  R101       1
+NODENAME NetLED1-1        $
+    LED1       1  R100       1
+NODENAME NetL3-1          $
+    L3         1  U5         5
+NODENAME NetJ_ICSP1-5     $
+    J_ICSP1    5  PIC1      27
+NODENAME NetJ_ICSP1-4     $
+    J_ICSP1    4  PIC1      28
+NODENAME NetJ_ICSP1-1     $
+    J_ICSP1    1  PIC1       1  R2         2
+NODENAME NetJ3-10         $
+    J3        10  PIC1      18
+NODENAME NetJ3-9          $
+    J3         9  PIC1      17
+NODENAME NetJ3-8          $
+    J3         8  PIC1      16
+NODENAME NetJ3-7          $
+    J3         7  PIC1      12
+NODENAME NetJ3-6          $
+    J3         6  PIC1      11
+NODENAME NetJ3-5          $
+    J3         5  PIC1      26
+NODENAME NetJ3-4          $
+    J3         4  PIC1      23
+NODENAME NetJ3-3          $
+    J3         3  PIC1      22
+NODENAME NetJ3-2          $
+    J3         2  PIC1       9
+NODENAME NetJ3-1          $
+    J3         1  PIC1      10
+NODENAME NetJ2-22         $
+    J2        22  U1        M7
+NODENAME NetJ2-21         $
+    J2        21  U1        N4
+NODENAME NetJ2-14         $
+    J2        14  U1        P4
+NODENAME NetJ2-12         $
+    J2        12  U1        K1
+NODENAME NetJ2-8          $
+    J2         8  U1        K2
+NODENAME NetJ2-7          $
+    J2         7  U1        L2
+NODENAME NetJ2-6          $
+    J2         6  U1        N6
+NODENAME NetJ2-5          $
+    J2         5  U1        M2
+NODENAME NetJ2-4          $
+    J2         4  U1        P5
+NODENAME NetJ2-3          $
+    J2         3  U1        N2
+NODENAME NetJ1-43         $
+    J1        43  U1       A16
+NODENAME NetJ1-41         $
+    J1        41  U1       G14
+NODENAME NetJ1-40         $
+    J1        40  U1       V21
+NODENAME NetJ1-39         $
+    J1        39  U1       Y11
+NODENAME NetJ1-38         $
+    J1        38  U1        V2
+NODENAME NetJ1-37         $
+    J1        37  U1       Y10
+NODENAME NetJ1-36         $
+    J1        36  U1        V1
+NODENAME NetJ1-35         $
+    J1        35  U1        Y7
+NODENAME NetJ1-34         $
+    J1        34  U1       U22
+NODENAME NetJ1-33         $
+    J1        33  U1        Y6
+NODENAME NetJ1-32         $
+    J1        32  U1       U20
+NODENAME NetJ1-30         $
+    J1        30  U1        L8
+NODENAME NetJ1-28         $
+    J1        28  U1        L6
+NODENAME NetJ1-27         $
+    J1        27  U1       Y12
+NODENAME NetJ1-24         $
+    J1        24  U1       W21
+NODENAME NetJ1-23         $
+    J1        23  U1       B17
+NODENAME NetJ1-22         $
+    J1        22  U1       W20
+NODENAME NetJ1-21         $
+    J1        21  U1       A17
+NODENAME NetJ1-20         $
+    J1        20  U1        W3
+NODENAME NetJ1-19         $
+    J1        19  U1        Y4
+NODENAME NetJ1-18         $
+    J1        18  U1        W1
+NODENAME NetJ1-17         $
+    J1        17  U1       W22
+NODENAME NetJ1-4          $
+    J1         4  U1        M3
+NODENAME NetJ1-3          $
+    J1         3  PIC1      25
+NODENAME NetJ1-2          $
+    J1         2  U1        L4
+NODENAME NetJ1-1          $
+    J1         1  PIC1      24
+NODENAME NetFRAM1_H6      $
+    FRAM1     H6  U1       AB6
+NODENAME NetFRAM1_H5      $
+    FRAM1     H5  U1        N7
+NODENAME NetFRAM1_H4      $
+    FRAM1     H4  U1       AB7
+NODENAME NetFRAM1_H3      $
+    FRAM1     H3  U1        V9
+NODENAME NetFRAM1_H2      $
+    FRAM1     H2  U1       T10
+NODENAME NetFRAM1_H1      $
+    FRAM1     H1  U1        W8
+NODENAME NetFRAM1_G6      $
+    FRAM1     G6  U1       U10
+NODENAME NetFRAM1_G5      $
+    FRAM1     G5  R9         1
+NODENAME NetFRAM1_G4      $
+    FRAM1     G4  U1        W9
+NODENAME NetFRAM1_G3      $
+    FRAM1     G3  U1       AB8
+NODENAME NetFRAM1_G2      $
+    FRAM1     G2  U1       V10
+NODENAME NetFRAM1_G1      $
+    FRAM1     G1  U1       T11
+NODENAME NetFRAM1_F6      $
+    FRAM1     F6  U1       U11
+NODENAME NetFRAM1_F5      $
+    FRAM1     F5  U1       W10
+NODENAME NetFRAM1_F4      $
+    FRAM1     F4  U1       R11
+NODENAME NetFRAM1_F3      $
+    FRAM1     F3  U1       AB9
+NODENAME NetFRAM1_F2      $
+    FRAM1     F2  U1       W11
+NODENAME NetFRAM1_F1      $
+    FRAM1     F1  U1       V11
+NODENAME NetFRAM1_E5      $
+    FRAM1     E5  U1      AB12
+NODENAME NetFRAM1_E4      $
+    FRAM1     E4  U1      AB13
+NODENAME NetFRAM1_E3      $
+    FRAM1     E3  U1       W12
+NODENAME NetFRAM1_E2      $
+    FRAM1     E2  U1       R12
+NODENAME NetFRAM1_D5      $
+    FRAM1     D5  U1       V12
+NODENAME NetFRAM1_D4      $
+    FRAM1     D4  U1       T12
+NODENAME NetFRAM1_D3      $
+    FRAM1     D3  U1       U12
+NODENAME NetFRAM1_D2      $
+    FRAM1     D2  U1       W13
+NODENAME NetFRAM1_C6      $
+    FRAM1     C6  U1       V13
+NODENAME NetFRAM1_C5      $
+    FRAM1     C5  U1       U13
+NODENAME NetFRAM1_C4      $
+    FRAM1     C4  U1       T13
+NODENAME NetFRAM1_C3      $
+    FRAM1     C3  U1       W14
+NODENAME NetFRAM1_C2      $
+    FRAM1     C2  U1      AA16
+NODENAME NetFRAM1_C1      $
+    FRAM1     C1  U1      AB16
+NODENAME NetFRAM1_B6      $
+    FRAM1     B6  U1       T14
+NODENAME NetFRAM1_B4      $
+    FRAM1     B4  U1       C21
+NODENAME NetFRAM1_B3      $
+    FRAM1     B3  U1       U14
+NODENAME NetFRAM1_B2      $
+    FRAM1     B2  U1       V15
+NODENAME NetFRAM1_B1      $
+    FRAM1     B1  U1      AB17
+NODENAME NetFRAM1_A6      $
+    FRAM1     A6  U1       D22
+NODENAME NetFRAM1_A5      $
+    FRAM1     A5  U1       E22
+NODENAME NetFRAM1_A4      $
+    FRAM1     A4  U1       F22
+NODENAME NetFRAM1_A3      $
+    FRAM1     A3  U1       G22
+NODENAME NetFRAM1_A2      $
+    FRAM1     A2  U1       V16
+NODENAME NetFRAM1_A1      $
+    FRAM1     A1  U1       W17
+NODENAME NetFLASH1-7      $
+    FLASH1     7  U1       E18
+NODENAME NetFLASH1-6      $
+    FLASH1     6  PIC1      14  U1       A12
+NODENAME NetFLASH1-5      $
+    FLASH1     5  PIC1      15  U1       G12
+NODENAME NetFLASH1-3      $
+    FLASH1     3  U1       E19
+NODENAME NetFLASH1-2      $
+    FLASH1     2  PIC1      13  U1       H12
+NODENAME NetFLASH1-1      $
+    FLASH1     1  R4         1  U1       F12
+NODENAME NetD1-2          $
+    D1         2  D2         1
+NODENAME NetCOM_Header-20 $
+    COM_Header20  R11        1  U1       Y17
+NODENAME NetCOM_Header-19 $
+    COM_Header19  R10        1  U1       Y19
+NODENAME NetCOM_Header-18 $
+    COM_Header18  U1       E11
+NODENAME NetCOM_Header-17 $
+    COM_Header17  U1       D10
+NODENAME NetCOM_Header-16 $
+    COM_Header16  J2        50  U1       G11
+NODENAME NetCOM_Header-15 $
+    COM_Header15  J2        48  U1       B10
+NODENAME NetCOM_Header-14 $
+    COM_Header14  J2        47  U1       H11
+NODENAME NetCOM_Header-13 $
+    COM_Header13  J2        49  U1        D9
+NODENAME NetCOM_Header-12 $
+    COM_Header12  U1       F11
+NODENAME NetCOM_Header-11 $
+    COM_Header11  U1        A7
+NODENAME NetCOM_Header-10 $
+    COM_Header10  U1       A11
+NODENAME NetCOM_Header-9  $
+    COM_Header 9  U1        E9
+NODENAME NetCOM_Header-8  $
+    COM_Header 8  U1       A10
+NODENAME NetCOM_Header-7  $
+    COM_Header 7  U1        E8
+NODENAME NetCOM_Header-6  $
+    COM_Header 6  U1       E10
+NODENAME NetCOM_Header-5  $
+    COM_Header 5  U1        B7
+NODENAME NetCOM_Header-4  $
+    COM_Header 4  U1       F10
+NODENAME NetCOM_Header-3  $
+    COM_Header 3  U1        D8
+NODENAME NetCOM_Header-2  $
+    COM_Header 2  U1       G10
+NODENAME NetCOM_Header-1  $
+    COM_Header 1  U1        G9
+NODENAME NetC58-2         $
+    C58        2  PIC1      21  R17        2  T7         1  U2         5
+NODENAME NetC1-2          $
+    C1         2  R1         1  R2         1
+NODENAME GND-3000         $
+    R13        2  U1        G7
+NODENAME GND              $
+    C1         1  C2         1  C3         2  C4         1  C5         1  C6         1  C7         1  C8         1  C9         1  C10        1  C12        1  C13        1  C14        1  C15        1  C16        2  C17        2  C18        2  C19        2  C20        2  C21        2  C22        2  C23        2  C24        2  C25        2  C26        2  C27        2  C28        2  C29        2  C30        2  C31        2  C32        2  C33        2  C34        2  C35        2  C36        2  C37        2  C38        2  C39        2  C40        2  C41        2  C42        2  C43        2  C44        2  C45        2  C46        2  C47        2  C48        1  C49        2  C50        2  C51        2  C52        2  C53        1  C54        2  C55        2  C56        2  C57        2  C58        1  C59        2  C60        2  C61        1  C62        2  C63        2  C64        2  C65        2  C66        2  C67        1  C68        2  C69        2  C70        2  C71        2  C73        2  C74        2  C75        2  C76        2  C77        1  C78        2  C79        2  C80        2  C81        2  C82        2  C83        2  C86        2  C87        2  C88        2  C89        2  C100       1  C101       2  D2         2  FLASH1     4  FRAM1     B5  FRAM1     D1  FRAM1     E6  J2        29  J2        30  J2        31  J2        32  J_ICSP1    3  PIC1       8  PIC1      19  R7         1  R8         1  R13        1  R17        1  R100       2  R101       2  R_LED3_80Ohm2  R_LED4_80Ohm2  R_LED5_80Ohm2  SRAM1     D1  SRAM1     E6  T4         1  T5         1  T6         1  U1        A1  U1        A2  U1       A21  U1       A22  U1       AA1  U1      AA22  U1       AB1  U1       AB2  U1      AB21  U1      AB22  U1        B1  U1       B22  U1        C5  U1       C18  U1        D4  U1       D19  U1        E3  U1        E6  U1       E20  U1        G8  U1       G15  U1       G16  U1        J9  U1       J14  U1       J20  U1        K3  U1       K10  U1       K11  U1       K12  U1       K13  U1        L7  U1       L10  U1       L11  U1       L12  U1       L13  U1       L18  U1        M1  U1       M10  U1       M11  U1       M12  U1       M13  U1       N10  U1       N11  U1       N12  U1       N13  U1       N20  U1        P9  U1       P14  U1        T7  U1        T8  U1       T15  U1       T16  U1        V3  U1        V6  U1       V18  U1       V20  U1        W4  U1       W19  U1        Y5  U1       Y18  U2         4  U5         2  X2         2
+NODENAME CASE             $
+    ST1        1  ST2        1  ST3        1  ST4        1
+NODENAME +5Vin            $
+    J2        25  J2        26  LED1       2  T2         1
+NODENAME +3V3             $
+    C9         2  C60        1  C61        2  C100       2  D1         1  J2        27  J2        28  LED2       2  R6         2  R14        1  R15        1  T1         1  U1       H21  U1       P22  U2         2  X2         1  X2         4
+NODENAME +3.3V_VPUMP      $
+    C3         1  C4         2  U1       U17
+NODENAME +3.3V_JTAG       $
+    C5         2  U1       T17
+NODENAME +3.3V            $
+    C2         2  C10        2  C12        2  C13        2  C14        2  C15        2  C44        1  C45        1  C46        1  C47        1  C48        2  C49        1  C50        1  C51        1  C52        1  C53        2  C54        1  C55        1  C56        1  C57        1  C59        1  C62        1  C63        1  C64        1  C65        1  C66        1  C67        2  C68        1  C69        1  C70        1  C71        1  C73        1  C74        1  C75        1  C76        1  C77        2  C78        1  C79        1  C80        1  C81        1  C82        1  C83        1  C86        1  C87        1  C88        1  C89        1  FLASH1     8  FRAM1     D6  FRAM1     E1  J_ICSP1    2  L2         2  PIC1      20  R1         2  R3         2  R4         2  R9         2  R10        2  R11        2  SRAM1     D6  SRAM1     E1  U1        A3  U1       A20  U1       AA2  U1      AA21  U1       AB3  U1      AB20  U1        B2  U1       B21  U1        C1  U1       C22  U1        F6  U1       F17  U1        H8  U1        H9  U1       H10  U1       H13  U1       H14  U1       H15  U1        J8  U1       J15  U1        K8  U1       K15  U1        N8  U1       N15  U1        P8  U1       P15  U1        R8  U1        R9  U1       R10  U1       R13  U1       R14  U1       R15  U1        U6  U1       U15  U1        Y1  U1       Y22
+NODENAME +1.5V            $
+    C16        1  C17        1  C18        1  C19        1  C20        1  C21        1  C22        1  C23        1  C24        1  C25        1  C26        1  C27        1  C28        1  C29        1  C30        1  C31        1  C32        1  C33        1  C34        1  C35        1  C36        1  C37        1  C38        1  C39        1  C40        1  C41        1  C42        1  C43        1  C101       1  L3         2  T3         1  U1        C8  U1        C9  U1       C14  U1       C15  U1        H3  U1       H20  U1       J10  U1       J11  U1       J12  U1       J13  U1        K9  U1       K14  U1        L9  U1       L14  U1        M9  U1       M14  U1        N9  U1       N14  U1       P10  U1       P11  U1       P12  U1       P13  U1        R3  U1       R20  U1        Y8  U1        Y9  U1       Y14  U1       Y15  U5         4
+EOS

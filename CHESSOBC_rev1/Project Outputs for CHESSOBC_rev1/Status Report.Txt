@@ -1,37 +1,10 @@
-Output: Gerber Files
-Type  : Gerber
-From  : Variant [[No Variations]] of Project [CHESSOBC_rev1.PrjPcb]
-   Generated File[CHESSOBC_rev1.GTO]
-   Generated File[CHESSOBC_rev1.GTP]
-   Generated File[CHESSOBC_rev1.GTS]
-   Generated File[CHESSOBC_rev1.GTL]
-   Generated File[CHESSOBC_rev1.GBL]
-   Generated File[CHESSOBC_rev1.GBS]
-   Generated File[CHESSOBC_rev1.GBP]
-   Generated File[CHESSOBC_rev1.GBO]
-   Generated File[CHESSOBC_rev1.GM1]
-   Generated File[CHESSOBC_rev1.GM2]
-   Generated File[CHESSOBC_rev1.GM3]
-   Generated File[CHESSOBC_rev1.GM4]
-   Generated File[CHESSOBC_rev1.GM5]
-   Generated File[CHESSOBC_rev1.GM6]
-   Generated File[CHESSOBC_rev1.GM13]
-   Generated File[CHESSOBC_rev1.GM15]
-   Generated File[CHESSOBC_rev1.GM16]
-   Generated File[CHESSOBC_rev1.GM19]
-   Generated File[CHESSOBC_rev1.GM20]
-   Generated File[CHESSOBC_rev1.GM21]
-   Generated File[CHESSOBC_rev1.GM23]
-   Generated File[CHESSOBC_rev1.GM24]
-   Generated File[CHESSOBC_rev1.GKO]
-   Generated File[CHESSOBC_rev1.GPT]
-   Generated File[CHESSOBC_rev1.GPB]
-   Generated File[CHESSOBC_rev1.RUL]
-   Generated File[CHESSOBC_rev1.EXTREP]
-   Generated File[CHESSOBC_rev1.REP]
+Output: Cadnetix Netlist
+Type  : CadnetixNetlist
+From  : Project [CHESSOBC_rev1.PrjPcb]
+   Generated File[CHESSOBC_rev1.NET]
 
 
-Files Generated   : 28
+Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 10:49:19 On 17/02/2021
+Finished Output Generation At 19:12:06 On 03/07/2021
