@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=NetPIC1_11 Pin=PIC1-11
+Added Pin To Net: NetName=NetPIC1_11 Pin=U1-N1
+Added Net: Name=NetPIC1_11
+Added Member To Class: ClassName=Interface Member=Component R22 CHP1206AFX-4701ELF
+Added Member To Class: ClassName=Interface Member=Component R23 CHP1206AFX-4701ELF
