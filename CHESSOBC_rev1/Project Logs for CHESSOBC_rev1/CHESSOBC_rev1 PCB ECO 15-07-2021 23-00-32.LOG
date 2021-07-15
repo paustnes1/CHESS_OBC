@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=NetSRAM1_F2 Pin=U1-K19
+Added Pin To Net: NetName=NetSRAM1_F2 Pin=U1-D18

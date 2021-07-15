@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\eliow\OneDrive\Dokumente\GitHub\CHESS_OBC\CHESSOBC_rev1\CHESSOBC_rev1.PcbDoc
-Date     : 13/07/2021
-Time     : 15:30:19
+Date     : 15/07/2021
+Time     : 23:22:56
 
 Processing Rule : Clearance Constraint (Gap=0.1mm) (All),(All)
 Rule Violations :0
@@ -51,4 +51,4 @@ Rule Violations :0
 
 Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:02
+Time Elapsed        : 00:00:01

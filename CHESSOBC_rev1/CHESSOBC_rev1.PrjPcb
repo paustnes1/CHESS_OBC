@@ -351,6 +351,10 @@ DItemRevisionGUID=
 DocumentPath=Project Outputs for CHESSOBC_rev1\Design Rule Check - CHESSOBC_rev1.html
 DItemRevisionGUID=
 
+[GeneratedDocument32]
+DocumentPath=Project Outputs for CHESSOBC_rev1\Net Status - CHESSOBC_rev1.html
+DItemRevisionGUID=
+
 [Parameter1]
 Name=Designers
 Value=ML, PFA, EW
