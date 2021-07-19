@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=NetCOM_Header_20 Pin=U1-R17
+Added Pin To Net: NetName=NetCOM_Header_20 Pin=U1-E7

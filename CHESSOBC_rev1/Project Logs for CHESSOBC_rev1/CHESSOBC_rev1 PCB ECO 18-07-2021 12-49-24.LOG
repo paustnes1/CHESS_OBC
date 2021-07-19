@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=NetFRAM1_G1 Pin=U1-T11
+Added Pin To Net: NetName=NetFRAM1_G1 Pin=U1-W15
