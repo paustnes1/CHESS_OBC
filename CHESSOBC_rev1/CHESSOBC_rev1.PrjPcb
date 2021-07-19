@@ -227,6 +227,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EKEZROLC
 
+[Document12]
+DocumentPath=test_output_gerberX2.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for CHESSOBC_rev1\BGA Escape Route - CHESSOBC_rev1.html
 DItemRevisionGUID=
@@ -348,10 +365,134 @@ DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1.RUL
 DItemRevisionGUID=
 
 [GeneratedDocument31]
-DocumentPath=Project Outputs for CHESSOBC_rev1\Design Rule Check - CHESSOBC_rev1.html
+DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1_Copper_Plane_1.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument32]
+DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1_Copper_Plane_2.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1_Copper_Signal_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1_Copper_Signal_2.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1_Copper_Signal_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1_Copper_Signal_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument37]
+DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1_Keep-out.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument38]
+DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1_Legend_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument39]
+DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1_Legend_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument40]
+DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1_Mechanical_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument41]
+DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1_Mechanical_2.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument42]
+DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1_Mechanical_3.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument43]
+DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1_Mechanical_4.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument44]
+DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1_Mechanical_5.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument45]
+DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1_Mechanical_6.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument46]
+DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1_Mechanical_13.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument47]
+DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1_Mechanical_14.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument48]
+DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1_Mechanical_15.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument49]
+DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1_Mechanical_16.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument50]
+DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1_Mechanical_19.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument51]
+DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1_Mechanical_20.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument52]
+DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1_Mechanical_21.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument53]
+DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1_Mechanical_23.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument54]
+DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1_Mechanical_24.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument55]
+DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1_Pads_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument56]
+DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1_Pads_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument57]
+DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1_Paste_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument58]
+DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1_Paste_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument59]
+DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1_Profile.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument60]
+DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1_Soldermask_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument61]
+DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1_Soldermask_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument62]
+DocumentPath=Project Outputs for CHESSOBC_rev1\Design Rule Check - CHESSOBC_rev1.html
+DItemRevisionGUID=
+
+[GeneratedDocument63]
 DocumentPath=Project Outputs for CHESSOBC_rev1\Net Status - CHESSOBC_rev1.html
 DItemRevisionGUID=
 
@@ -682,6 +823,10 @@ OutputName10=Gerber X2 Files
 OutputDocumentPath10=
 OutputVariantName10=
 OutputDefault10=0
+Configuration10_Name1=ForceUpdateSettings
+Configuration10_Item1=False
+Configuration10_Name2=OutputConfigurationParameter1
+Configuration10_Item2=FileComment= |FileSubject=Autodetect|GenerateDRCRulesFile=True|GerberUnit=Metric|MinusApertureTolerance=39|NumberOfDecimals=5|OptimizeChangeLocationCommands=True|PlotBackDrillingPairs=False|PlotBlindViasPairs=False|PlotBoardProfile=True|PlotDrillDrawingPairs=False|PlotDrillGuidePairs=False|PlotMicroViasPairs=False|PlotNPTHPairs=False|PlotPTHPairs=False|PlotX2.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16777217~1,16842756~1,16908312~1,16908292~1,16908309~1,16908308~1,16908290~1,16908302~1,16908307~1,16973833~1,16908304~1,16908289~1,16908291~1,16973837~1,16908311~1,16908303~1,16973848~1,16908301~1,16777219~1,16973831~1,16973849~1,16908294~1,16973835~1,16973830~1,16973832~1,16842751~1,16908293~1,16973834~1,16842753~1,16777218~1|PlusApertureTolerance=39|Record=GerberX2View|Sorted=False|DocumentPath=C:\Users\eliow\OneDrive\Dokumente\GitHub\CHESS_OBC\CHESSOBC_rev1\CHESSOBC_rev1.PcbDoc
 OutputType11=Final
 OutputName11=Final Artwork Prints
 OutputDocumentPath11=
@@ -696,7 +841,7 @@ OutputDefault12=0
 Configuration12_Name1=ForceUpdateSettings
 Configuration12_Item1=False
 Configuration12_Name2=OutputConfigurationParameter1
-Configuration12_Item2=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=200000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GerberUnit=Imperial|GerberUnit=Imperial|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MinusApertureTolerance=50|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=5|NumberOfDecimals=5|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16973830~1,16973832~1,16973834~1,16777217~1,16842751~1,16973835~1,16973833~1,16973831~1,16908289~1,16908290~1,16908291~1,16908292~1,16908293~1,16908294~1,16908301~1,16908303~1,16908304~1,16908307~1,16908308~1,16908309~1,16908311~1,16908312~1,16973837~1,16973848~1,16973849~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=50|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False|DocumentPath=C:\Users\pal\Dropbox\EPFL\Space_team\PCB\CHESSOBC_rev1\CHESSOBC_rev1.PcbDoc
+Configuration12_Item2=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=200000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GerberUnit=Metric|GerberUnit=Metric|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MinusApertureTolerance=39|MinusApertureTolerance=39|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=4|NumberOfDecimals=4|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16973830~1,16973832~1,16973834~1,16777217~1,16842751~1,16973835~1,16973833~1,16973831~1,16908289~1,16908290~1,16908291~1,16908292~1,16908293~1,16908294~1,16908301~1,16908303~1,16908304~1,16908307~1,16908308~1,16908309~1,16908311~1,16908312~1,16973837~1,16973848~1,16973849~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=39|PlusApertureTolerance=39|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False|DocumentPath=C:\Users\eliow\OneDrive\Dokumente\GitHub\CHESS_OBC\CHESSOBC_rev1\CHESSOBC_rev1.PcbDoc
 
 [OutputGroup6]
 Name=Report Outputs
