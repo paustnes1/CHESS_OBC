@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\eliow\OneDrive\Dokumente\GitHub\CHESS_OBC\CHESSOBC_rev1\CHESSOBC_rev1.PcbDoc
-Date     : 19/07/2021
-Time     : 22:47:03
+Date     : 13/08/2021
+Time     : 11:42:48
 
 Processing Rule : Clearance Constraint (Gap=0.1mm) (All),(All)
 Rule Violations :0
@@ -19,7 +19,8 @@ Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=0.5mm) (Co
 Rule Violations :0
 
 Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
-Rule Violations :0
+   Violation between Starved Thermal on GND: Via (56.07mm,75.906mm) from Top Layer to Bottom Layer. Only 45% copper is connected to the hole.
+Rule Violations :1
 
 Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=2.54mm) (All)
 Rule Violations :0
@@ -28,7 +29,14 @@ Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
 Rule Violations :0
 
 Processing Rule : Minimum Solder Mask Sliver (Gap=0.15mm) (All),(All)
-Rule Violations :0
+   Violation between Minimum Solder Mask Sliver Constraint: (0.047mm < 0.15mm) Between Pad R1-1(86.363mm,53.459mm) on Top Layer And Pad R1-2(87.113mm,53.459mm) on Top Layer [Top Solder] Mask Sliver [0.047mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.047mm < 0.15mm) Between Pad R2-1(84.884mm,53.459mm) on Top Layer And Pad R2-2(83.934mm,53.459mm) on Top Layer [Top Solder] Mask Sliver [0.047mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.047mm < 0.15mm) Between Pad R9-1(76.581mm,75.063mm) on Bottom Layer And Pad R9-2(76.581mm,75.813mm) on Bottom Layer [Bottom Solder] Mask Sliver [0.047mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.07mm < 0.15mm) Between Pad TempSensor-A1(88.095mm,83.95mm) on Top Layer And Pad TempSensor-A2(88.095mm,84.35mm) on Top Layer [Top Solder] Mask Sliver [0.07mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.07mm < 0.15mm) Between Pad TempSensor-A1(88.095mm,83.95mm) on Top Layer And Pad TempSensor-B1(88.495mm,83.95mm) on Top Layer [Top Solder] Mask Sliver [0.07mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.07mm < 0.15mm) Between Pad TempSensor-A2(88.095mm,84.35mm) on Top Layer And Pad TempSensor-B2(88.495mm,84.35mm) on Top Layer [Top Solder] Mask Sliver [0.07mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.07mm < 0.15mm) Between Pad TempSensor-B1(88.495mm,83.95mm) on Top Layer And Pad TempSensor-B2(88.495mm,84.35mm) on Top Layer [Top Solder] Mask Sliver [0.07mm]
+Rule Violations :7
 
 Processing Rule : Silk To Solder Mask (Clearance=0mm) (IsPad),(All)
 Rule Violations :0
@@ -49,6 +57,6 @@ Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (Al
 Rule Violations :0
 
 
-Violations Detected : 0
+Violations Detected : 8
 Waived Violations : 0
 Time Elapsed        : 00:00:03
