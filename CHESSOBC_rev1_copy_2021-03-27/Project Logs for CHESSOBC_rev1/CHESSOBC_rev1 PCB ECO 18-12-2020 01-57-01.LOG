@@ -1,7 +1,0 @@
-Removed Member From Class: ClassName=FPGAPower Member=C82
-Added Component: Designator=C85(CAPC1005X60X30ML05T10)
-Add component (AddParameter): Name = "Manufacturer"; Value = "Kemet"; VariantName = "[No Variations]"
-Add component (AddParameter): Name = "Part Number"; Value = "C0402C104K8PACTU"; VariantName = "[No Variations]"
-Added Pin To Net: NetName=GND Pin=C85-1
-Added Pin To Net: NetName=+3V3 Pin=C85-2
-Added Member To Class: ClassName=FPGAMisc Member=Component C85 100nF

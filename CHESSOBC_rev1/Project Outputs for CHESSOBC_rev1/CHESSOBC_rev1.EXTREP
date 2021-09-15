@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: CHESSOBC_rev1.GBR   13/08/2021  12:39:46
+Gerber File Extension Report For: CHESSOBC_rev1.GBR   13/09/2021  11:08:14
 ------------------------------------------------------------------------------------------
 
 
@@ -21,20 +21,24 @@ Layer Extension     Layer Description
 .gbr                Top Paste                               
 .gbr                Top Solder                              
 .gbr                Keep-Out Layer                          
-.gbr                Bottom Component Center                 
-.gbr                Mechanical 4                            
-.gbr                Bottom Courtyard                        
-.gbr                Bottom Assembly                         
+.gbr                Top Component Center                    
+.gbr                Board Shape                             
+.gbr                Bottom 3D Body                          
 .gbr                Top 3D Body                             
+.gbr                Mechanical 2                            
 .gbr                Mechanical 14                           
 .gbr                Top Designator                          
 .gbr                Top Component Center                    
 .gbr                Mechanical 1                            
-.gbr                Top Courtyard                           
-.gbr                Bottom 3D Body                          
+.gbr                Mechanical 3                            
+.gbr                Bottom Assembly                         
 .gbr                Mechanical 15                           
-.gbr                Mechanical 13                           
+.gbr                Assembly Notes                          
 .gbr                Bottom Designator                       
 .gbr                Top Assembly                            
 .gbr                Profile                                 
+.gbr                Non-plated through-hole drill file      
+.gbr                Plated through-hole drill file          
+.gbr                Drill Drawing                           
+.gbr                Drill Guide                             
 ------------------------------------------------------------------------------------------

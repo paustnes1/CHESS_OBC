@@ -64,7 +64,8 @@ Generating : +3.3V
 
 
 Used DCodes :
-    D44
+    D46
+    D50
     D51
     D52
     D53
@@ -72,7 +73,6 @@ Used DCodes :
     D55
     D56
     D57
-    D58
 *************************************************************
 
 *************************************************************
@@ -85,7 +85,7 @@ Generating : Layer 2
 
 
 Used DCodes :
-    D40
+    D10
     D42
     D43
     D44
@@ -107,7 +107,7 @@ Generating : Layer 3
 
 
 Used DCodes :
-    D40
+    D10
     D42
     D43
     D44
@@ -129,13 +129,13 @@ Generating : GND
 
 
 Used DCodes :
-    D44
+    D46
+    D50
     D51
     D52
     D53
     D54
     D55
-    D56
     D57
     D58
 *************************************************************
@@ -150,9 +150,9 @@ Generating : Bottom Layer
 
 
 Used DCodes :
-    D22
+    D10
     D24
-    D40
+    D26
     D42
     D43
     D44
@@ -182,8 +182,8 @@ Generating : Bottom Pad Master
 
 
 Used DCodes :
-    D22
     D24
+    D26
     D42
     D43
     D44
@@ -212,7 +212,6 @@ Generating : Top Pad Master
 
 
 Used DCodes :
-    D10
     D11
     D12
     D13
@@ -242,6 +241,7 @@ Used DCodes :
     D37
     D38
     D39
+    D40
     D42
     D43
     D44
@@ -300,8 +300,12 @@ Generating : Bottom Solder
 
 
 Used DCodes :
+    D24
+    D26
     D59
     D61
+    D62
+    D66
     D77
     D78
     D79
@@ -314,10 +318,6 @@ Used DCodes :
     D86
     D87
     D88
-    D89
-    D90
-    D91
-    D92
 *************************************************************
 
 *************************************************************
@@ -329,16 +329,16 @@ Generating : Top Overlay
 
 Used DCodes :
     D75
+    D89
+    D90
+    D91
+    D92
     D93
     D94
     D95
     D96
     D97
     D98
-    D99
-    D100
-    D101
-    D102
 *************************************************************
 
 *************************************************************
@@ -353,13 +353,17 @@ Generating : Top Paste
 
 
 Used DCodes :
-    D13
-    D27
-    D29
+    D16
+    D28
     D30
-    D37
+    D31
+    D38
     D70
     D72
+    D99
+    D100
+    D101
+    D102
     D103
     D104
     D105
@@ -379,10 +383,6 @@ Used DCodes :
     D119
     D120
     D121
-    D122
-    D123
-    D124
-    D125
 *************************************************************
 
 *************************************************************
@@ -397,26 +397,29 @@ Generating : Top Solder
 
 
 Used DCodes :
-    D13
-    D17
-    D24
+    D11
+    D14
+    D16
+    D20
     D26
-    D27
+    D28
     D29
     D30
-    D37
-    D80
+    D31
+    D38
+    D81
     D82
+    D83
+    D84
     D85
     D86
     D87
     D88
-    D89
-    D90
-    D91
-    D92
-    D100
-    D104
+    D96
+    D122
+    D123
+    D124
+    D125
     D126
     D127
     D128
@@ -440,8 +443,6 @@ Used DCodes :
     D146
     D147
     D148
-    D149
-    D150
 *************************************************************
 
 *************************************************************
@@ -455,59 +456,60 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Component Center
+Generating : Top Component Center
       File : CHESSOBC_rev1_Mechanical_24.gbr
 
-    Adding Layer      : Bottom Component Center
+    Adding Layer      : Top Component Center
 
 
 Used DCodes :
-    D93
+    D91
 *************************************************************
 
 *************************************************************
-Generating : Mechanical 4
+Generating : Board Shape
       File : CHESSOBC_rev1_Mechanical_4.gbr
 
-    Adding Layer      : Mechanical 4
+    Adding Layer      : Board Shape
 
 
 Used DCodes :
+    D96
 *************************************************************
 
 *************************************************************
-Generating : Bottom Courtyard
+Generating : Bottom 3D Body
       File : CHESSOBC_rev1_Mechanical_21.gbr
 
-    Adding Layer      : Bottom Courtyard
+    Adding Layer      : Bottom 3D Body
 
 
 Used DCodes :
     D75
-    D151
-*************************************************************
-
-*************************************************************
-Generating : Bottom Assembly
-      File : CHESSOBC_rev1_Mechanical_20.gbr
-
-    Adding Layer      : Bottom Assembly
-
-
-Used DCodes :
-    D75
-    D93
 *************************************************************
 
 *************************************************************
 Generating : Top 3D Body
-      File : CHESSOBC_rev1_Mechanical_2.gbr
+      File : CHESSOBC_rev1_Mechanical_20.gbr
 
     Adding Layer      : Top 3D Body
 
 
 Used DCodes :
     D75
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 2
+      File : CHESSOBC_rev1_Mechanical_2.gbr
+
+    Adding Layer      : Mechanical 2
+
+
+Used DCodes :
+    D75
+    D91
+    D97
 *************************************************************
 
 *************************************************************
@@ -538,7 +540,6 @@ Generating : Top Component Center
 
 
 Used DCodes :
-    D93
 *************************************************************
 
 *************************************************************
@@ -549,30 +550,31 @@ Generating : Mechanical 1
 
 
 Used DCodes :
-    D100
-    D152
+    D149
 *************************************************************
 
 *************************************************************
-Generating : Top Courtyard
+Generating : Mechanical 3
       File : CHESSOBC_rev1_Mechanical_3.gbr
 
-    Adding Layer      : Top Courtyard
+    Adding Layer      : Mechanical 3
 
 
 Used DCodes :
-    D75
+    D91
+    D150
 *************************************************************
 
 *************************************************************
-Generating : Bottom 3D Body
+Generating : Bottom Assembly
       File : CHESSOBC_rev1_Mechanical_23.gbr
 
-    Adding Layer      : Bottom 3D Body
+    Adding Layer      : Bottom Assembly
 
 
 Used DCodes :
     D75
+    D91
 *************************************************************
 
 *************************************************************
@@ -583,21 +585,16 @@ Generating : Mechanical 15
 
 
 Used DCodes :
-    D93
-    D151
 *************************************************************
 
 *************************************************************
-Generating : Mechanical 13
+Generating : Assembly Notes
       File : CHESSOBC_rev1_Mechanical_13.gbr
 
-    Adding Layer      : Mechanical 13
+    Adding Layer      : Assembly Notes
 
 
 Used DCodes :
-    D75
-    D93
-    D101
 *************************************************************
 
 *************************************************************
@@ -618,7 +615,6 @@ Generating : Top Assembly
 
 
 Used DCodes :
-    D75
 *************************************************************
 
 *************************************************************
@@ -627,6 +623,55 @@ Generating : Profile
 
 
 Used DCodes :
+    D151
+*************************************************************
+
+*************************************************************
+Generating : Non-plated through-hole drill file
+      File : CHESSOBC_rev1_NPTH_Drill.gbr
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Plated through-hole drill file
+      File : CHESSOBC_rev1_PTH_Drill.gbr
+
+
+Used DCodes :
+    D152
     D153
+    D154
+    D155
+    D156
+    D157
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : CHESSOBC_rev1_Drawing_1.gbr
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D97
+    D159
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : CHESSOBC_rev1_Drillmap_1.gbr
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D97
 *************************************************************
 

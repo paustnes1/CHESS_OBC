@@ -68,7 +68,7 @@ AnnotateOrder=0
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
@@ -85,7 +85,7 @@ AnnotateOrder=1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
@@ -102,7 +102,7 @@ AnnotateOrder=2
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
@@ -119,7 +119,7 @@ AnnotateOrder=3
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
@@ -136,7 +136,7 @@ AnnotateOrder=4
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
@@ -153,7 +153,7 @@ AnnotateOrder=5
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
@@ -170,7 +170,7 @@ AnnotateOrder=6
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
@@ -204,7 +204,7 @@ AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
@@ -226,40 +226,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EKEZROLC
-
-[Document12]
-DocumentPath=test_output_gerberX2.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document13]
-DocumentPath=revision1.0-output.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for CHESSOBC_rev1\BGA Escape Route - CHESSOBC_rev1.html
@@ -406,110 +372,126 @@ DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1_Copper_Signal_Top.g
 DItemRevisionGUID=
 
 [GeneratedDocument37]
-DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1_Keep-out.gbr
+DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1_Drawing_1.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument38]
-DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1_Legend_Bot.gbr
+DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1_Drillmap_1.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument39]
-DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1_Legend_Top.gbr
+DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1_Keep-out.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument40]
-DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1_Mechanical_1.gbr
+DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1_Legend_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument41]
-DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1_Mechanical_2.gbr
+DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1_Legend_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument42]
-DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1_Mechanical_3.gbr
+DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1_Mechanical_1.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument43]
-DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1_Mechanical_4.gbr
+DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1_Mechanical_2.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument44]
-DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1_Mechanical_5.gbr
+DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1_Mechanical_3.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument45]
-DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1_Mechanical_6.gbr
+DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1_Mechanical_4.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument46]
-DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1_Mechanical_13.gbr
+DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1_Mechanical_5.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument47]
-DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1_Mechanical_14.gbr
+DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1_Mechanical_6.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument48]
-DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1_Mechanical_15.gbr
+DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1_Mechanical_13.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument49]
-DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1_Mechanical_16.gbr
+DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1_Mechanical_14.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument50]
-DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1_Mechanical_19.gbr
+DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1_Mechanical_15.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument51]
-DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1_Mechanical_20.gbr
+DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1_Mechanical_16.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument52]
-DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1_Mechanical_21.gbr
+DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1_Mechanical_19.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument53]
-DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1_Mechanical_23.gbr
+DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1_Mechanical_20.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument54]
-DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1_Mechanical_24.gbr
+DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1_Mechanical_21.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument55]
-DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1_Pads_Bot.gbr
+DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1_Mechanical_23.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument56]
-DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1_Pads_Top.gbr
+DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1_Mechanical_24.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument57]
-DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1_Paste_Bot.gbr
+DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1_NPTH_Drill.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument58]
-DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1_Paste_Top.gbr
+DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1_Pads_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument59]
-DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1_Profile.gbr
+DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1_Pads_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument60]
-DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1_Soldermask_Bot.gbr
+DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1_Paste_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument61]
-DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1_Soldermask_Top.gbr
+DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1_Paste_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument62]
-DocumentPath=Project Outputs for CHESSOBC_rev1\Design Rule Check - CHESSOBC_rev1.html
+DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1_Profile.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument63]
+DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1_PTH_Drill.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument64]
+DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1_Soldermask_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument65]
+DocumentPath=Project Outputs for CHESSOBC_rev1\CHESSOBC_rev1_Soldermask_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument66]
+DocumentPath=Project Outputs for CHESSOBC_rev1\Design Rule Check - CHESSOBC_rev1.html
+DItemRevisionGUID=
+
+[GeneratedDocument67]
 DocumentPath=Project Outputs for CHESSOBC_rev1\Net Status - CHESSOBC_rev1.html
 DItemRevisionGUID=
 
@@ -681,7 +663,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=Brother HL-L2340D series
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -761,7 +743,7 @@ PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup4]
 Name=Assembly Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=Brother HL-L2340D series
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Assembly
 OutputName1=Assembly Drawings
@@ -774,6 +756,10 @@ OutputName2=Generates pick and place files
 OutputDocumentPath2=
 OutputVariantName2=[No Variations]
 OutputDefault2=0
+Configuration2_Name1=ForceUpdateSettings
+Configuration2_Item1=False
+Configuration2_Name2=OutputConfigurationParameter1
+Configuration2_Item2=Record=PickPlaceView|Units=Metric|GenerateCSVFormat=True|GenerateTextFormat=False|ShowUnits=False|Separator=.|ExcludeFilterParam=False|IncludeVariations=False|IncludeStandardNoBOM=True|Filter= |FilterActive=False|YFlip=False|Column#1=Name:Designator,Fixed:True,Metric:False,Visible:True,Sort:None,Position:0|Column#2=Name:Comment,Fixed:True,Metric:False,Visible:True,Sort:None,Position:4|Column#3=Name:Layer,Fixed:True,Metric:False,Visible:True,Sort:None,Position:5|Column#4=Name:Footprint,Fixed:True,Metric:False,Visible:True,Sort:None,Position:6|Column#5=Name:Footprint Description,Fixed:True,Metric:False,Visible:False,Sort:None,Position:7|Column#6=Name:Center-X,Fixed:True,Metric:True,Visible:True,Sort:None,Position:1|Column#7=Name:Center-Y,Fixed:True,Metric:True,Visible:True,Sort:None,Position:2|Column#8=Name:Rotation,Fixed:True,Metric:False,Visible:True,Sort:None,Position:3|Column#9=Name:Description,Fixed:True,Metric:False,Visible:True,Sort:None,Position:8|Column#10=Name:ComponentKind,Fixed:True,Metric:False,Visible:False,Sort:None,Position:9|Column#11=Name:Height,Fixed:True,Metric:True,Visible:False,Sort:None,Position:10|Column#12=Name:Ref-X,Fixed:True,Metric:True,Visible:False,Sort:None,Position:11|Column#13=Name:Ref-Y,Fixed:True,Metric:True,Visible:False,Sort:None,Position:12|Column#14=Name:Pad-X,Fixed:True,Metric:True,Visible:False,Sort:None,Position:13|Column#15=Name:Pad-Y,Fixed:True,Metric:True,Visible:False,Sort:None,Position:14|Column#16=Name:Variation,Fixed:True,Metric:False,Visible:False,Sort:None,Position:15|Column#17=Name:Conn Orientation,Fixed:False,Metric:False,Visible:False,Sort:None,Position:40|Column#18=Name:GBW (MHz) Typical,Fixed:False,Metric:False,Visible:False,Sort:None,Position:63|Column#19=Name:Footprint Url,Fixed:False,Metric:False,Visible:False,Sort:None,Position:62|Column#20=Name:Lead Style,Fixed:False,Metric:False,Visible:False,Sort:None,Position:77|Column#21=Name:ComponentLink3Description,Fixed:False,Metric:False,Visible:False,Sort:None,Position:37|Column#22=Name:RevisionNote,Fixed:False,Metric:False,Visible:False,Sort:None,Position:136|Column#23=Name:REACH SVHC,Fixed:False,Metric:False,Visible:False,Sort:None,Position:135|Column#24=Name:Test Frequency,Fixed:False,Metric:False,Visible:False,Sort:None,Position:156|Column#25=Name:Inductance,Fixed:False,Metric:False,Visible:False,Sort:None,Position:68|Column#26=Name:Operating Temperature,Fixed:False,Metric:False,Visible:False,Sort:None,Position:106|Column#27=Name:Package / Case,Fixed:False,Metric:False,Visible:False,Sort:None,Position:110|Column#28=Name:LatestRevisionNote,Fixed:False,Metric:False,Visible:False,Sort:None,Position:74|Column#29=Name:Datasheet Version,Fixed:False,Metric:False,Visible:False,Sort:None,Position:47|Column#30=Name:Package Reference,Fixed:False,Metric:False,Visible:False,Sort:None,Position:113|Column#31=Name:Package Quantity,Fixed:False,Metric:False,Visible:False,Sort:None,Position:112|Column#32=Name:Code_JEITA,Fixed:False,Metric:False,Visible:False,Sort:None,Position:32|Column#33=Name:Case Code (Metric),Fixed:False,Metric:False,Visible:False,Sort:None,Position:24|Column#34=Name:Core Material,Fixed:False,Metric:False,Visible:False,Sort:None,Position:43|Column#35=Name:Military Standard,Fixed:False,Metric:False,Visible:False,Sort:None,Position:90|Column#36=Name:RoHS Compliant,Fixed:False,Metric:False,Visible:False,Sort:None,Position:138|Column#37=Name:Voltage,Fixed:False,Metric:False,Visible:False,Sort:None,Position:163|Column#38=Name:RoHS Information,Fixed:False,Metric:False,Visible:False,Sort:None,Position:139|Column#39=Name:Channels (#),Fixed:False,Metric:False,Visible:False,Sort:None,Position:29|Column#40=Name:Min Operating Temperature,Fixed:False,Metric:False,Visible:False,Sort:None,Position:91|Column#41=Name:SnapEDA_Link,Fixed:False,Metric:False,Visible:False,Sort:None,Position:146|Column#42=Name:Is (mA) Typical,Fixed:False,Metric:False,Visible:False,Sort:None,Position:72|Column#43=Name:Automotive Grade,Fixed:False,Metric:False,Visible:False,Sort:None,Position:21|Column#44=Name:Category,Fixed:False,Metric:False,Visible:False,Sort:None,Position:28|Column#45=Name:Self Resonant Frequency,Fixed:False,Metric:False,Visible:False,Sort:None,Position:142|Column#46=Name:Manufacturer URL,Fixed:False,Metric:False,Visible:False,Sort:None,Position:82|Column#47=Name:Pin Number,Fixed:False,Metric:False,Visible:False,Sort:None,Position:123|Column#48=Name:Mount,Fixed:False,Metric:False,Visible:False,Sort:None,Position:92|Column#49=Name:Mouser2 Price/Stock,Fixed:False,Metric:False,Visible:False,Sort:None,Position:99|Column#50=Name:Packaging,Fixed:False,Metric:False,Visible:False,Sort:None,Position:118|Column#51=Name:RoHSCompliant,Fixed:False,Metric:False,Visible:False,Sort:None,Position:140|Column#52=Name:Pitch,Fixed:False,Metric:False,Visible:False,Sort:None,Position:126|Column#53=Name:V(BR) Min (V),Fixed:False,Metric:False,Visible:False,Sort:None,Position:161|Column#54=Name:Number of Pins,Fixed:False,Metric:False,Visible:False,Sort:None,Position:103|Column#55=Name:Thickness (Max),Fixed:False,Metric:False,Visible:False,Sort:None,Position:158|Column#56=Name:Case/Package,Fixed:False,Metric:False,Visible:False,Sort:None,Position:25|Column#57=Name:DC Resistance (DCR),Fixed:False,Metric:False,Visible:False,Sort:None,Position:50|Column#58=Name:Digikey Description,Fixed:False,Metric:False,Visible:False,Sort:None,Position:57|Column#59=Name:Gender,Fixed:False,Metric:False,Visible:False,Sort:None,Position:64|Column#60=Name:DC Current,Fixed:False,Metric:False,Visible:False,Sort:None,Position:49|Column#61=Name:VRWM Max (V),Fixed:False,Metric:False,Visible:False,Sort:None,Position:169|Column#62=Name:Packing,Fixed:False,Metric:False,Visible:False,Sort:None,Position:119|Column#63=Name:Pins,Fixed:False,Metric:False,Visible:False,Sort:None,Position:125|Column#64=Name:Other Names,Fixed:False,Metric:False,Visible:False,Sort:None,Position:108|Column#65=Name:ComponentLink3URL,Fixed:False,Metric:False,Visible:False,Sort:None,Position:38|Column#66=Name:PPK Max (W),Fixed:False,Metric:False,Visible:False,Sort:None,Position:128|Column#67=Name:CompType,Fixed:False,Metric:False,Visible:False,Sort:None,Position:39|Column#68=Name:Voltage Rating (DC),Fixed:False,Metric:False,Visible:False,Sort:None,Position:166|Column#69=Name:Tolerance,Fixed:False,Metric:False,Visible:False,Sort:None,Position:159|Column#70=Name:Temperature Range High,Fixed:False,Metric:False,Visible:False,Sort:None,Position:153|Column#71=Name:PCN Part Number,Fixed:False,Metric:False,Visible:False,Sort:None,Position:122|Column#72=Name:Number Of Contacts,Fixed:False,Metric:False,Visible:False,Sort:None,Position:101|Column#73=Name:Case-EIA,Fixed:False,Metric:False,Visible:False,Sort:None,Position:26|Column#74=Name:Rated Voltage,Fixed:False,Metric:False,Visible:False,Sort:None,Position:133|Column#75=Name:Arrow Price/Stock,Fixed:False,Metric:False,Visible:False,Sort:None,Position:19|Column#76=Name:Max DC Current,Fixed:False,Metric:False,Visible:False,Sort:None,Position:86|Column#77=Name:MF,Fixed:False,Metric:False,Visible:False,Sort:None,Position:89|Column#78=Name:Ipc Land Pattern Name,Fixed:False,Metric:False,Visible:False,Sort:None,Position:70|Column#79=Name:RoHS,Fixed:False,Metric:False,Visible:False,Sort:None,Position:137|Column#80=Name:Shielding,Fixed:False,Metric:False,Visible:False,Sort:None,Position:144|Column#81=Name:PartNumber,Fixed:False,Metric:False,Visible:False,Sort:None,Position:121|Column#82=Name:Code_IPC,Fixed:False,Metric:False,Visible:False,Sort:None,Position:30|Column#83=Name:Manufacturer_Name,Fixed:False,Metric:False,Visible:False,Sort:None,Position:83|Column#84=Name:Current Rating,Fixed:False,Metric:False,Visible:False,Sort:None,Position:44|Column#85=Name:Device Class L3,Fixed:False,Metric:False,Visible:False,Sort:None,Position:55|Column#86=Name:ComponentLink2Description,Fixed:False,Metric:False,Visible:False,Sort:None,Position:35|Column#87=Name:Lead Free,Fixed:False,Metric:False,Visible:False,Sort:None,Position:75|Column#88=Name:Arrow Part Number,Fixed:False,Metric:False,Visible:False,Sort:None,Position:18|Column#89=Name:Radiation Hardening,Fixed:False,Metric:False,Visible:False,Sort:None,Position:131|Column#90=Name:Termination,Fixed:False,Metric:False,Visible:False,Sort:None,Position:155|Column#91=Name:Case-Metric,Fixed:False,Metric:False,Visible:False,Sort:None,Position:27|Column#92=Name:Datasheet URL,Fixed:False,Metric:False,Visible:False,Sort:None,Position:46|Column#93=Name:Temperature Coefficient,Fixed:False,Metric:False,Visible:False,Sort:None,Position:151|Column#94=Name:PackageDescription,Fixed:False,Metric:False,Visible:False,Sort:None,Position:114|Column#95=Name:Vos (mV) Typical,Fixed:False,Metric:False,Visible:False,Sort:None,Position:168|Column#96=Name:Mouser Description,Fixed:False,Metric:False,Visible:False,Sort:None,Position:95|Column#97=Name:ComponentLink1URL,Fixed:False,Metric:False,Visible:False,Sort:None,Position:34|Column#98=Name:Temperature Characteristic,Fixed:False,Metric:False,Visible:False,Sort:None,Position:150|Column#99=Name:Value,Fixed:False,Metric:False,Visible:False,Sort:None,Position:162|Column#100=Name:Lead Spacing,Fixed:False,Metric:False,Visible:False,Sort:None,Position:76|Column#101=Name:PackageReference,Fixed:False,Metric:False,Visible:False,Sort:None,Position:115|Column#102=Name:Case Code (Imperial),Fixed:False,Metric:False,Visible:False,Sort:None,Position:23|Column#103=Name:LatestRevisionDate,Fixed:False,Metric:False,Visible:False,Sort:None,Position:73|Column#104=Name:Series,Fixed:False,Metric:False,Visible:False,Sort:None,Position:143|Column#105=Name:Mouser Price/Stock,Fixed:False,Metric:False,Visible:False,Sort:None,Position:97|Column#106=Name:Publisher,Fixed:False,Metric:False,Visible:False,Sort:None,Position:130|Column#107=Name:ComponentLink1Description,Fixed:False,Metric:False,Visible:False,Sort:None,Position:33|Column#108=Name:Features,Fixed:False,Metric:False,Visible:False,Sort:None,Position:61|Column#109=Name:PackageTopMarking,Fixed:False,Metric:False,Visible:False,Sort:None,Position:116|Column#110=Name:Mounting Type,Fixed:False,Metric:False,Visible:False,Sort:None,Position:94|Column#111=Name:Height,Fixed:False,Metric:False,Visible:False,Sort:None,Position:65|Column#112=Name:Row Number,Fixed:False,Metric:False,Visible:False,Sort:None,Position:141|Column#113=Name:Withstanding Voltage,Fixed:False,Metric:False,Visible:False,Sort:None,Position:173|Column#114=Name:Standard Package,Fixed:False,Metric:False,Visible:False,Sort:None,Position:147|Column#115=Name:Height - Seated (Max),Fixed:False,Metric:False,Visible:False,Sort:None,Position:66|Column#116=Name:Number of Lines,Fixed:False,Metric:False,Visible:False,Sort:None,Position:102|Column#117=Name:Temperature,Fixed:False,Metric:False,Visible:False,Sort:None,Position:149|Column#118=Name:Product Training Modules,Fixed:False,Metric:False,Visible:False,Sort:None,Position:129|Column#119=Name:Voltage - Rated,Fixed:False,Metric:False,Visible:False,Sort:None,Position:164|Column#120=Name:Length,Fixed:False,Metric:False,Visible:False,Sort:None,Position:78|Column#121=Name:Max Operating Temperature,Fixed:False,Metric:False,Visible:False,Sort:None,Position:87|Column#122=Name:Thickness,Fixed:False,Metric:False,Visible:False,Sort:None,Position:157|Column#123=Name:Part Number,Fixed:False,Metric:False,Visible:False,Sort:None,Position:120|Column#124=Name:MP,Fixed:False,Metric:False,Visible:False,Sort:None,Position:100|Column#125=Name:IR Max (uA),Fixed:False,Metric:False,Visible:False,Sort:None,Position:71|Column#126=Name:Manufacturer_Part_Number,Fixed:False,Metric:False,Visible:False,Sort:None,Position:84|Column#127=Name:Inductance Tolerance,Fixed:False,Metric:False,Visible:False,Sort:None,Position:69|Column#128=Name:Ratings,Fixed:False,Metric:False,Visible:False,Sort:None,Position:134|Column#129=Name:Mounting Technology,Fixed:False,Metric:False,Visible:False,Sort:None,Position:93|Column#130=Name:Applications,Fixed:False,Metric:False,Visible:False,Sort:None,Position:17|Column#131=Name:Technology,Fixed:False,Metric:False,Visible:False,Sort:None,Position:148|Column#132=Name:Family,Fixed:False,Metric:False,Visible:False,Sort:None,Position:60|Column#133=Name:Device Class L2,Fixed:False,Metric:False,Visible:False,Sort:None,Position:54|Column#134=Name:Octopart,Fixed:False,Metric:False,Visible:False,Sort:None,Position:104|Column#135=Name:Width,Fixed:False,Metric:False,Visible:False,Sort:None,Position:172|Column#136=Name:Size / Dimension,Fixed:False,Metric:False,Visible:False,Sort:None,Position:145|Column#137=Name:Working Voltage,Fixed:False,Metric:False,Visible:False,Sort:None,Position:174|Column#138=Name:High-Reliability,Fixed:False,Metric:False,Visible:False,Sort:None,Position:67|Column#139=Name:Mouser Part Number,Fixed:False,Metric:False,Visible:False,Sort:None,Position:96|Column#140=Name:ComponentLink2URL,Fixed:False,Metric:False,Visible:False,Sort:None,Position:36|Column#141=Name:Design Resources,Fixed:False,Metric:False,Visible:False,Sort:None,Position:52|Column#142=Name:Manufacturer,Fixed:False,Metric:False,Visible:False,Sort:None,Position:80|Column#143=Name:Mouser2 Part Number,Fixed:False,Metric:False,Visible:False,Sort:None,Position:98|Column#144=Name:Vos (mV) Guaranteed,Fixed:False,Metric:False,Visible:False,Sort:None,Position:167|Column#145=Name:Temperature Range,Fixed:False,Metric:False,Visible:False,Sort:None,Position:152|Column#146=Name:PowerWise,Fixed:False,Metric:False,Visible:False,Sort:None,Position:127|Column#147=Name:Code_JEDEC,Fixed:False,Metric:False,Visible:False,Sort:None,Position:31|Column#148=Name:Contact Resistance,Fixed:False,Metric:False,Visible:False,Sort:None,Position:42|Column#149=Name:Orientation,Fixed:False,Metric:False,Visible:False,Sort:None,Position:107|Column#150=Name:PinCount,Fixed:False,Metric:False,Visible:False,Sort:None,Position:124|Column#151=Name:Type,Fixed:False,Metric:False,Visible:False,Sort:None,Position:160|Column#152=Name:Online Catalog,Fixed:False,Metric:False,Visible:False,Sort:None,Position:105|Column#153=Name:3DS Part Number,Fixed:False,Metric:False,Visible:False,Sort:None,Position:16|Column#154=Name:Direction,Fixed:False,Metric:False,Visible:False,Sort:None,Position:59|Column#155=Name:Max Thickness,Fixed:False,Metric:False,Visible:False,Sort:None,Position:88|Column#156=Name:Vs Max (V),Fixed:False,Metric:False,Visible:False,Sort:None,Position:170|Column#157=Name:Device Class L1,Fixed:False,Metric:False,Visible:False,Sort:None,Position:53|Column#158=Name:Rated Current,Fixed:False,Metric:False,Visible:False,Sort:None,Position:132|Column#159=Name:Datasheet Link,Fixed:False,Metric:False,Visible:False,Sort:None,Position:45|Column#160=Name:Temperature Range Low,Fixed:False,Metric:False,Visible:False,Sort:None,Position:154|Column#161=Name:Package,Fixed:False,Metric:False,Visible:False,Sort:None,Position:109|Column#162=Name:Capacitance,Fixed:False,Metric:False,Visible:False,Sort:None,Position:22|Column#163=Name:Contact Material,Fixed:False,Metric:False,Visible:False,Sort:None,Position:41|Column#164=Name:Linear Technology Part Number,Fixed:False,Metric:False,Visible:False,Sort:None,Position:79|Column#165=Name:Automotive,Fixed:False,Metric:False,Visible:False,Sort:None,Position:20|Column#166=Name:Dielectric,Fixed:False,Metric:False,Visible:False,Sort:None,Position:56|Column#167=Name:Package Description,Fixed:False,Metric:False,Visible:False,Sort:None,Position:111|Column#168=Name:Vs Min (V),Fixed:False,Metric:False,Visible:False,Sort:None,Position:171|Column#169=Name:Voltage Rating,Fixed:False,Metric:False,Visible:False,Sort:None,Position:165|Column#170=Name:Digi-Key_Part_Number,Fixed:False,Metric:False,Visible:False,Sort:None,Position:58|Column#171=Name:Material,Fixed:False,Metric:False,Visible:False,Sort:None,Position:85|Column#172=Name:DatasheetVersion,Fixed:False,Metric:False,Visible:False,Sort:None,Position:48|Column#173=Name:Depth,Fixed:False,Metric:False,Visible:False,Sort:None,Position:51|Column#174=Name:PackageVersion,Fixed:False,Metric:False,Visible:False,Sort:None,Position:117|Column#175=Name:Manufacturer Part Number,Fixed:False,Metric:False,Visible:False,Sort:None,Position:81|DocumentPath=C:\Users\eliow\OneDrive\Dokumente\GitHub\CHESS_OBC\CHESSOBC_rev1\CHESSOBC_rev1.PcbDoc
 OutputType3=Test Points For Assembly
 OutputName3=Test Point Report
 OutputDocumentPath3=
@@ -783,73 +769,73 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=Brother HL-L2340D series
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
-OutputType1=CompositeDrill
-OutputName1=Composite Drill Drawing
+OutputType1=NC Drill
+OutputName1=NC Drill Files
 OutputDocumentPath1=
 OutputVariantName1=
 OutputDefault1=0
-PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType2=Drill
-OutputName2=Drill Drawing/Guides
+OutputType2=Mask
+OutputName2=Solder/Paste Mask Prints
 OutputDocumentPath2=
 OutputVariantName2=
 OutputDefault2=0
 PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType3=Board Stack Report
-OutputName3=Report Board Stack
+OutputType3=IPC2581
+OutputName3=IPC-2581 Files
 OutputDocumentPath3=
 OutputVariantName3=
 OutputDefault3=0
-PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType4=Final
-OutputName4=Final Artwork Prints
+OutputType4=Test Points
+OutputName4=Test Point Report
 OutputDocumentPath4=
-OutputVariantName4=[No Variations]
+OutputVariantName4=
 OutputDefault4=0
-PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType5=Gerber X2
-OutputName5=Gerber X2 Files
+OutputType5=Plane
+OutputName5=Power-Plane Prints
 OutputDocumentPath5=
 OutputVariantName5=
 OutputDefault5=0
-Configuration5_Name1=ForceUpdateSettings
-Configuration5_Item1=False
-Configuration5_Name2=OutputConfigurationParameter1
-Configuration5_Item2=FileComment= |FileSubject=Autodetect|GenerateDRCRulesFile=True|GerberUnit=Metric|MinusApertureTolerance=39|NumberOfDecimals=5|OptimizeChangeLocationCommands=True|PlotBackDrillingPairs=False|PlotBlindViasPairs=False|PlotBoardProfile=True|PlotDrillDrawingPairs=False|PlotDrillGuidePairs=False|PlotMicroViasPairs=False|PlotNPTHPairs=False|PlotPTHPairs=False|PlotX2.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16777217~1,16842756~1,16908312~1,16908292~1,16908309~1,16908308~1,16908290~1,16908302~1,16908307~1,16973833~1,16908304~1,16908289~1,16908291~1,16973837~1,16908311~1,16908303~1,16973848~1,16908301~1,16777219~1,16973831~1,16973849~1,16908294~1,16973835~1,16973830~1,16973832~1,16842751~1,16908293~1,16973834~1,16842753~1,16777218~1|PlusApertureTolerance=39|Record=GerberX2View|Sorted=False|DocumentPath=C:\Users\eliow\OneDrive\Dokumente\GitHub\CHESS_OBC\CHESSOBC_rev1\CHESSOBC_rev1.PcbDoc
+PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 OutputType6=ODB
 OutputName6=ODB++ Files
 OutputDocumentPath6=
 OutputVariantName6=[No Variations]
 OutputDefault6=0
-OutputType7=Mask
-OutputName7=Solder/Paste Mask Prints
+OutputType7=Drill
+OutputName7=Drill Drawing/Guides
 OutputDocumentPath7=
 OutputVariantName7=
 OutputDefault7=0
 PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType8=NC Drill
-OutputName8=NC Drill Files
+OutputType8=CompositeDrill
+OutputName8=Composite Drill Drawing
 OutputDocumentPath8=
 OutputVariantName8=
 OutputDefault8=0
-OutputType9=IPC2581
-OutputName9=IPC-2581 Files
+PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType9=Board Stack Report
+OutputName9=Report Board Stack
 OutputDocumentPath9=
 OutputVariantName9=
 OutputDefault9=0
-OutputType10=Plane
-OutputName10=Power-Plane Prints
+PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType10=Gerber X2
+OutputName10=Gerber X2 Files
 OutputDocumentPath10=
 OutputVariantName10=
 OutputDefault10=0
-PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType11=Test Points
-OutputName11=Test Point Report
+Configuration10_Name1=ForceUpdateSettings
+Configuration10_Item1=False
+Configuration10_Name2=OutputConfigurationParameter1
+Configuration10_Item2=FileComment= |FileSubject=Single|GenerateDRCRulesFile=True|GerberUnit=Metric|MinusApertureTolerance=39|NumberOfDecimals=5|OptimizeChangeLocationCommands=False|PlotBackDrillingPairs=False|PlotBlindViasPairs=False|PlotBoardProfile=True|PlotDrillDrawingPair0_Backdrill=False|PlotDrillDrawingPair0_DrillType=Regular|PlotDrillDrawingPair0_HighLayer=Bottom Layer|PlotDrillDrawingPair0_LowLayer=Top Layer|PlotDrillDrawingPairs=False|PlotDrillGuidePair0_Backdrill=False|PlotDrillGuidePair0_DrillType=Regular|PlotDrillGuidePair0_HighLayer=Bottom Layer|PlotDrillGuidePair0_LowLayer=Top Layer|PlotDrillGuidePairs=False|PlotMicroViasPairs=False|PlotNPTHPair0_Backdrill=False|PlotNPTHPair0_DrillType=Regular|PlotNPTHPair0_HighLayer=Top Layer|PlotNPTHPair0_LowLayer=Bottom Layer|PlotNPTHPairs=False|PlotPTHPair0_Backdrill=False|PlotPTHPair0_DrillType=Regular|PlotPTHPair0_HighLayer=Top Layer|PlotPTHPair0_LowLayer=Bottom Layer|PlotPTHPairs=False|PlotX2.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16777217~1,16842756~1,16908312~1,16908292~1,16908309~1,16908308~1,16908290~1,16908302~1,16908307~1,16973833~1,16908304~1,16908289~1,16908291~1,16973837~1,16908311~1,16908303~1,16973848~1,16908301~1,16777219~1,16973831~1,16973849~1,16908294~1,16973835~1,16973830~1,16973832~1,16842751~1,16908293~1,16973834~1,16842753~1,16777218~1|PlusApertureTolerance=39|Record=GerberX2View|Sorted=False|DocumentPath=C:\Users\eliow\OneDrive\Dokumente\GitHub\CHESS_OBC\CHESSOBC_rev1\CHESSOBC_rev1.PcbDoc
+OutputType11=Final
+OutputName11=Final Artwork Prints
 OutputDocumentPath11=
-OutputVariantName11=
+OutputVariantName11=[No Variations]
 OutputDefault11=0
+PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 OutputType12=Gerber
 OutputName12=Gerber Files
 OutputDocumentPath12=

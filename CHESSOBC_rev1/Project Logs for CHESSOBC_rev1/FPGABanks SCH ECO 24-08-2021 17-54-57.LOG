@@ -1,0 +1,17 @@
+Change Component Designator: OldDesignator=COM_Header NewDesignator=COM-Header
+Change Component Designator: OldDesignator=FLASH1 NewDesignator=FLASH
+Change Component Designator: OldDesignator=FRAM1 NewDesignator=FRAM
+Change Component Designator: OldDesignator=J_ICSP1 NewDesignator=PIC-Kit
+Change Component Designator: OldDesignator=LED1 NewDesignator=5V LED
+Change Component Designator: OldDesignator=P_GPIO NewDesignator=GPIO
+Change Component Designator: OldDesignator=PIC1 NewDesignator=PIC
+Change Component Designator: OldDesignator=SRAM1 NewDesignator=SRAM
+Change Component Designator: OldDesignator=T1 NewDesignator=T1 (3.3V)
+Change Component Designator: OldDesignator=T2 NewDesignator=T2 (5V)
+Change Component Designator: OldDesignator=T3 NewDesignator=T3 (1.5V)
+Change Component Designator: OldDesignator=T4 NewDesignator=T4 (GND)
+Change Component Designator: OldDesignator=T5 NewDesignator=T5 (GND)
+Change Component Designator: OldDesignator=T6 NewDesignator=T6 (GND)
+Change Component Designator: OldDesignator=U5 NewDesignator=1.5V Supply
+Change Component Designator: OldDesignator=X1 NewDesignator=X1 (JTAG)
+Change Component Designator: OldDesignator=X2 NewDesignator=FPGA-CLK
