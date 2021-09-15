@@ -44,4 +44,4 @@ From  : Project [CHESSOBC_rev1.PrjPcb]
 Files Generated   : 38
 Documents Printed : 0
 
-Finished Output Generation At 11:08:31 On 13/09/2021
+Finished Output Generation At 21:57:59 On 15/09/2021
